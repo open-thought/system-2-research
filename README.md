@@ -37,27 +37,35 @@
 
 ## Books
 
-- John E. Laird - [The Soar Cognitive Architecture](https://a.co/d/cXo8KFu), MIT Press, 2019
-- Chris Eliasmith - [How to Build a Brain: A Neural Architecture for Biological Cognition](https://academic.oup.com/book/6263) (Oxford Series on Cognitive Models and Architectures), 2013
-- Thomas Parr, Giovanni Pezzulo, Karl J. Friston - [Active Inference: The Free Energy Principle in Mind, Brain, and Behavior](https://a.co/d/4OAX5dD), MIT Press, 2022
+- [The Soar Cognitive Architecture](https://a.co/d/cXo8KFu), John E. Laird, MIT Press, 2019
+- [How to Build a Brain: A Neural Architecture for Biological Cognition](https://academic.oup.com/book/6263) Chris Eliasmith, Oxford Series on Cognitive Models and Architectures, 2013
+- [Active Inference: The Free Energy Principle in Mind, Brain, and Behavior](https://a.co/d/4OAX5dD), Thomas Parr, Giovanni Pezzulo, Karl J. Friston, MIT Press, 2022
 
 
 ## Software Tools & Libraries
 
-- [stanfordnlp/dspy]( https://github.com/stanfordnlp/dspy)
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent), [documentation](https://princeton-nlp.github.io/SWE-agent/)
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
 - [meta-llama/llama-agentic-system](https://github.com/meta-llama/llama-agentic-system)
+- [stanfordnlp/dspy]( https://github.com/stanfordnlp/dspy)
 
 
 ## Commercial Offerings
 
-- [Devin](https://preview.devin.ai/)
-- [Cursor](https://www.cursor.com/)
+- Software Engineering
+  - [Devin](https://preview.devin.ai/)
+  - [Cursor](https://www.cursor.com/)
+  - [copilot-workspace](https://githubnext.com/projects/copilot-workspace)
 
 
 ## Best LLM APIs
 
 - [Anthropic Claude](https://docs.anthropic.com/en/api/getting-started)
 
+
+## Youtube Content
+
+- [Consciousness as a coherence-inducing operator](https://www.youtube.com/watch?v=qoHCQ1ozswA) Talk by Josha Bach at the [Models of Consciousness Conferences](https://models-of-consciousness.org/)
+- [David Shapiro](https://www.youtube.com/@DaveShap)
+- [MIT AGI: Cognitive Architecture (Nate Derbinsky)](https://www.youtube.com/watch?v=bfO4EkoGh40)
