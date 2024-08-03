@@ -6,6 +6,7 @@
 
 - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)
 - [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/abs/2405.15793)
+- [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496)
 - [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [Agentless: Demystifying LLM-based Software Engineering Agents](https://arxiv.org/abs/2407.01489)
@@ -13,11 +14,14 @@
 
 
 ### World Models
+
+- [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080)
+- Latent space world-models: [Dreamer](http://arxiv.org/pdf/1912.01603), [V2](https://arxiv.org/abs/2010.02193), [V3](https://arxiv.org/abs/2301.04104), [DayDreamer](https://arxiv.org/pdf/2206.14176)
 - [World Models](https://arxiv.org/abs/1803.10122), web: [project page](https://worldmodels.github.io/)
-- Latent space world-models: [Dreamer](http://arxiv.org/pdf/1912.01603), [V2](https://arxiv.org/abs/2010.02193), [V3](https://danijar.com/project/dreamerv3/)
 
 
 ### Neuro-Symbolic Approaches
+
 - Blog: DeepMind [AlphaProof and AlphaGeometry 2](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
 - [SymbolicAI: A framework for logic-based approaches combining generative models and solvers](https://arxiv.org/abs/2402.00854)
 - [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381)
@@ -76,6 +80,7 @@
   - [Devin](https://preview.devin.ai/)
   - [Cursor](https://www.cursor.com/)
   - [copilot-workspace](https://githubnext.com/projects/copilot-workspace)
+  - [textgrad](https://textgrad.com/)
 
 
 # Competitions & Benchmarks
