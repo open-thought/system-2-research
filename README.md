@@ -10,6 +10,7 @@
 - [Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)
 - Latent space world-models: [Dreamer](http://arxiv.org/pdf/1912.01603), [V2](https://arxiv.org/abs/2010.02193), [V3](https://danijar.com/project/dreamerv3/)
 - [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381)
+- [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
 
 
 ## Prompting Techniques
@@ -27,6 +28,12 @@
 - Schmidhuer: [Artificial Curiosity & Creativity](https://people.idsia.ch/~juergen/artificial-curiosity-since-1990.html)
 
 
+## Graph Neural Networks
+
+- Distill [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/) (2021)
+- [Geometric Deep Learning - Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/)
+
+
 ## Algorithms
 
 - [generate-and-test](https://www.geeksforgeeks.org/generate-and-test-search/)
@@ -39,7 +46,8 @@
 
 - [The Soar Cognitive Architecture](https://a.co/d/cXo8KFu), John E. Laird, MIT Press, 2019
 - [How to Build a Brain: A Neural Architecture for Biological Cognition](https://academic.oup.com/book/6263) Chris Eliasmith, Oxford Series on Cognitive Models and Architectures, 2013
-- [Active Inference: The Free Energy Principle in Mind, Brain, and Behavior](https://a.co/d/4OAX5dD), Thomas Parr, Giovanni Pezzulo, Karl J. Friston, MIT Press, 2022
+- [Active Inference: The Free Energy Principle in Mind, Brain, and Behavior](https://a.co/d/4OAX5dD), Thomas Parr, Giovanni Pezzulo, Karl J. Friston, MIT Press, 2022, [MLST Interview with Thomas Parr](https://www.youtube.com/watch?v=bk_xCikDUDQ)
+- [Principles of Synthetic Intelligence PSI: An Architecture of Motivated Cognition](https://amzn.eu/d/46Xwq4s), Joscha Bach, Oxford Series on Cognitive Models and Architectures Book 4, 2009
 
 
 ## Software Tools & Libraries
@@ -59,9 +67,10 @@
   - [copilot-workspace](https://githubnext.com/projects/copilot-workspace)
 
 
-## Best LLM APIs
+# Competitions & Benchmarks
 
-- [Anthropic Claude](https://docs.anthropic.com/en/api/getting-started)
+- [ARC-AGI](https://arcprize.org/arc): [Leaderboad](https://arcprize.org/leaderboard)
+- PlanBench: [Paper](https://arxiv.org/abs/2206.10498), gh: [karthikv792/LLMs-Planning](https://github.com/karthikv792/LLMs-Planning)
 
 
 ## Youtube Content
@@ -69,3 +78,8 @@
 - [Consciousness as a coherence-inducing operator](https://www.youtube.com/watch?v=qoHCQ1ozswA) Talk by Josha Bach at the [Models of Consciousness Conferences](https://models-of-consciousness.org/)
 - [David Shapiro](https://www.youtube.com/@DaveShap)
 - [MIT AGI: Cognitive Architecture (Nate Derbinsky)](https://www.youtube.com/watch?v=bfO4EkoGh40)
+
+
+## Best LLM APIs
+
+- [Anthropic Claude](https://docs.anthropic.com/en/api/getting-started)
