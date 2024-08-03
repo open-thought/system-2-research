@@ -11,6 +11,7 @@
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [Agentless: Demystifying LLM-based Software Engineering Agents](https://arxiv.org/abs/2407.01489)
 - [Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)
+- [AI Agents That Matter](https://arxiv.org/pdf/2407.01502)
 
 
 ### World Models
