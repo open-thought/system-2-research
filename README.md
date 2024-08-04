@@ -38,6 +38,7 @@
    - Prompt Engineering Guide [Prompting Techniques](https://www.promptingguide.ai/techniques)
 - Chain-of-Thoughts (COT): [Paper](https://arxiv.org/abs/2201.11903)
 - Tree-of-Thoughts (ToT): [Paper](https://arxiv.org/pdf/2305.10601)
+- Mixture-of-Agents (MoA): [Paper](https://arxiv.org/abs/2406.04692)
 
 
 ## Blog Posts
