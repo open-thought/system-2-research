@@ -1,4 +1,10 @@
-# System 2 - Reasoning Research
+# OpenThought - System 2 Research Links
+
+Here you find a collection of material (books, papers, blog-posts etc.) related to reasoning and cognition in AI systems. Specifically we want to cover agents, cognitive architectures, general problem solving strategies and self-improvement.
+
+The term "System 2" in the page title refers to the slower, more deliberative, and more logical mode of thought as described by Daniel Kahneman in his book [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow).
+
+You know a great resource we should add? Please see [How to contribute](#how-to-contribute).
 
 ## Agent Papers
 
@@ -107,3 +113,8 @@
 ## Best LLM APIs
 
 - [Anthropic Claude](https://docs.anthropic.com/en/api/getting-started)
+
+
+## How to contribute
+
+ To share a link related to reasoning in AI systems that is missing here please create a pull request for this file. See [editing files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) in the github documentation.
