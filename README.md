@@ -14,6 +14,7 @@
 - [AI Agents That Matter](https://arxiv.org/pdf/2407.01502)
 - [Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning](https://arxiv.org/abs/2311.13549)
 - [Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents](https://arxiv.org/abs/2403.02502)
+- [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
 
 
 ### World Models
