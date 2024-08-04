@@ -24,6 +24,10 @@
 - Latent space world-models: [Dreamer](http://arxiv.org/pdf/1912.01603), [V2](https://arxiv.org/abs/2010.02193), [V3](https://arxiv.org/abs/2301.04104), [DayDreamer](https://arxiv.org/pdf/2206.14176)
 - [World Models](https://arxiv.org/abs/1803.10122), web: [project page](https://worldmodels.github.io/)
 
+### Massive Sampling for Improved Reasoning
+- [Large Language Monkeys: Scaling Inference Compute
+with Repeated Sampling](https://arxiv.org/abs/2407.21787)
+- [AlphaCode 2 Technical Report](https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf)
 
 ### Neuro-Symbolic Approaches
 
