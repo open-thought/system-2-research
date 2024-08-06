@@ -6,6 +6,30 @@ The term "System 2" in the page title refers to the slower, more deliberative, a
 
 You know a great resource we should add? Please see [How to contribute](#how-to-contribute).
 
+
+## Cognitive Architectures
+
+(looking for additional links & articles and summaries)
+
+- [SOAR](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)) by John Laird, Allen Newell, and Paul Rosenbloom
+resonance theory) by Stephen Grossberg and Gail Carpenter 
+- [ACT-R](https://en.wikipedia.org/wiki/ACT-R) (Adaptive Control of Thought-Rational) by John Anderson at CMU
+- [SPAUN](https://www.nengo.ai/nengo-spa/user-guide/spa-intro.html) (Semantic Pointer Architecture Unified Network) by Chris Eliasmith at Waterloo
+- [SPAUN 2.0](https://core.ac.uk/download/pdf/158325694.pdf) by Feng-Xuan Choo
+- [ART](https://en.wikipedia.org/wiki/Adaptive_resonance_theory) (Adaptive 
+- [CLARION](https://en.wikipedia.org/wiki/CLARION_(cognitive_architecture)) (Connectionist Learning with Adaptive Rule Induction ON-line) by Ron Sun
+- [EPIC](https://web.eecs.umich.edu/~kieras/epic.html) (Executive Process/Interactive Control) by David Kieras and David Meyer
+- [LIDA](https://en.wikipedia.org/wiki/LIDA_(cognitive_architecture)) (Learning Intelligent Distribution Agent) by Stan Franklin
+- [Sigma](https://ict.usc.edu/pubs/The%20Sigma%20cognitive%20architecture%20and%20system.pdf) by Paul Rosenbloom
+- [OpenCog](https://opencog.org/) by Ben Goertzel
+- [NARS](https://cis.temple.edu/~pwang/NARS-Intro.html) (Non-Axiomatic Reasoning System) by Pei Wang
+- [Icarus](http://www.isle.org/~langley/papers/icarus.csr17.pdf) by Pat Langley
+- [MicroPsi](http://cognitive-ai.com/publications/assets/MicroPsiArchitectureICCM03.pdf) by Joscha Bach
+- [Thousand Brains Theory](https://www.numenta.com/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/) & [HTM](https://www.numenta.com/resources/htm/) (Hierarchical Temporal Memory) by Jeff Hawkins
+- [SPH](https://ogma.ai/sph-technology-description/) (Sparse Predictive Hierarchie) by Eric Laukien
+- [Leabra](https://github.com/emer/leabra), [2016 Paper](https://ccnlab.org/papers/OReillyHazyHerd16.pdf) by [Randall O'Reilly](https://ccnlab.org/people/oreilly/)
+
+
 ## Agent Papers
 
 ### LLM Based
