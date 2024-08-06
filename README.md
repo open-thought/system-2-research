@@ -13,7 +13,6 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)
 - [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/abs/2405.15793)
 - [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496)
-- [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [Agentless: Demystifying LLM-based Software Engineering Agents](https://arxiv.org/abs/2407.01489)
 - [Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)
@@ -21,6 +20,14 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning](https://arxiv.org/abs/2311.13549)
 - [Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents](https://arxiv.org/abs/2403.02502)
 - [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
+- [ArchCode: Incorporating Software Requirements in Code Generation with Large Language Models](https://arxiv.org/abs/2408.00994)
+
+
+#### Massive Sampling / Generate-and-Test
+
+- [Large Language Monkeys: Scaling Inference Compute
+with Repeated Sampling](https://arxiv.org/abs/2407.21787)
+- [AlphaCode 2 Technical Report](https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf)
 
 
 ### World Models
@@ -30,16 +37,17 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - Latent space world-models: [Dreamer](http://arxiv.org/pdf/1912.01603), [V2](https://arxiv.org/abs/2010.02193), [V3](https://arxiv.org/abs/2301.04104), [DayDreamer](https://arxiv.org/pdf/2206.14176)
 - [World Models](https://arxiv.org/abs/1803.10122), web: [project page](https://worldmodels.github.io/)
 
-### Massive Sampling for Improved Reasoning
-- [Large Language Monkeys: Scaling Inference Compute
-with Repeated Sampling](https://arxiv.org/abs/2407.21787)
-- [AlphaCode 2 Technical Report](https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf)
 
 ### Neuro-Symbolic Approaches
 
 - [HYSYNTH: Context-Free LLM Approximation for Guiding Program Synthesis](https://arxiv.org/abs/2405.15880)
 - [SymbolicAI: A framework for logic-based approaches combining generative models and solvers](https://arxiv.org/abs/2402.00854)
 - [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381)
+
+
+### Active Inference
+
+- [From pixels to planning: scale-free active inference](https://arxiv.org/abs/2407.20292)
 
 
 ## Prompting Techniques
@@ -50,6 +58,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - Chain-of-Thoughts (COT): [Paper](https://arxiv.org/abs/2201.11903)
 - Tree-of-Thoughts (ToT): [Paper](https://arxiv.org/pdf/2305.10601)
 - Mixture-of-Agents (MoA): [Paper](https://arxiv.org/abs/2406.04692)
+
 
 
 ## Blog Posts
@@ -82,6 +91,13 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [Principles of Synthetic Intelligence PSI: An Architecture of Motivated Cognition](https://amzn.eu/d/46Xwq4s), Joscha Bach, Oxford Series on Cognitive Models and Architectures Book 4, 2009
 - [Conscious Mind, Resonant Brain: How Each Brain Makes a Mind](https://a.co/d/5Hl3n7H), Stephen Grossberg, Oxford University Press, 2021 
 
+
+## Biologically Inspired Approaches
+
+- Ogma Sparse Predictive Hierarchies (SPH): [whitepaper](https://ogma.ai/sph-technology-description/)
+- [The Tolman-Eichenbaum Machine: Unifying space and relational memory through generalisation in the hippocampal formation](https://www.biorxiv.org/content/10.1101/770495v2) (TEM), [TEM-t](https://arxiv.org/abs/2112.04035)
+
+
 ## Software Tools & Libraries
 
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
@@ -89,6 +105,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent), [documentation](https://princeton-nlp.github.io/SWE-agent/)
 - [meta-llama/llama-agentic-system](https://github.com/meta-llama/llama-agentic-system)
 - [stanfordnlp/dspy]( https://github.com/stanfordnlp/dspy)
+- [InternLM/lagent](https://github.com/InternLM/lagent) - lightweight framework for building LLM-based agents
 
 
 ## Commercial Offerings
@@ -105,6 +122,11 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://arxiv.org/abs/2307.13854), web: [project page](https://webarena.dev/), [Leaderboard](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?usp=sharing)
 - [ARC-AGI](https://arcprize.org/arc): [Leaderboad](https://arcprize.org/leaderboard), [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
 - PlanBench: [Paper](https://arxiv.org/abs/2206.10498), gh: [karthikv792/LLMs-Planning](https://github.com/karthikv792/LLMs-Planning)
+
+
+## Related Projects
+
+- Nous Research [Open Reasoning Tasks](https://reasoning.nousresearch.com/), a list of reasoning tasks, gh: [NousResearch/Open-Reasoning-Tasks](https://github.com/NousResearch/Open-Reasoning-Tasks)
 
 
 ## Youtube Content
