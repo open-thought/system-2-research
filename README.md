@@ -161,6 +161,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 
 ## Youtube Content
 
+- [Understanding Human Learning and Abstraction Using Cognitive Models & Neural Networks](https://youtu.be/k_9nMt4V8nk) Maria Eckstein (DeepMind)
 - [Consciousness as a coherence-inducing operator](https://www.youtube.com/watch?v=qoHCQ1ozswA) Talk by Josha Bach at the [Models of Consciousness Conferences](https://models-of-consciousness.org/)
 - [David Shapiro](https://www.youtube.com/@DaveShap)
 - [MIT AGI: Cognitive Architecture (Nate Derbinsky)](https://www.youtube.com/watch?v=bfO4EkoGh40)
