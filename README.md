@@ -21,6 +21,8 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents](https://arxiv.org/abs/2403.02502)
 - [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
 - [ArchCode: Incorporating Software Requirements in Code Generation with Large Language Models](https://arxiv.org/abs/2408.00994)
+- MedAgent-Zero: [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)
+- [Self-Discover: Large Language Models Self-Compose Reasoning Structures](https://arxiv.org/abs/2402.03620)
 
 
 #### Massive Sampling / Generate-and-Test
@@ -57,8 +59,10 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
    - Prompt Engineering Guide [Prompting Techniques](https://www.promptingguide.ai/techniques)
 - Chain-of-Thoughts (COT): [Paper](https://arxiv.org/abs/2201.11903)
 - Tree-of-Thoughts (ToT): [Paper](https://arxiv.org/pdf/2305.10601)
+- Graph-of-Thoughts (GoT): [Paper](https://arxiv.org/abs/2308.09687), [code](https://github.com/spcl/graph-of-thoughts)
+- Algorithm of Thoughts (AoT): [Paper](https://arxiv.org/abs/2308.10379)
+- Chain-of-Verification (CoVe/CoV): [Paper](https://arxiv.org/abs/2309.11495)
 - Mixture-of-Agents (MoA): [Paper](https://arxiv.org/abs/2406.04692)
-
 
 
 ## Blog Posts
