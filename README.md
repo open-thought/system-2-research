@@ -41,7 +41,7 @@ resonance theory) by Stephen Grossberg and Gail Carpenter
 - [Agentless: Demystifying LLM-based Software Engineering Agents](https://arxiv.org/abs/2407.01489)
 - [Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)
 - [AI Agents That Matter](https://arxiv.org/pdf/2407.01502)
-- [Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning](https://arxiv.org/abs/2311.13549)
+- [Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning](https://arxiv.org/abs/2407.10718)
 - [Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents](https://arxiv.org/abs/2403.02502)
 - [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
 - [ArchCode: Incorporating Software Requirements in Code Generation with Large Language Models](https://arxiv.org/abs/2408.00994)
