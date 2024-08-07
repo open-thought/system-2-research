@@ -89,6 +89,8 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - Algorithm of Thoughts (AoT): [Paper](https://arxiv.org/abs/2308.10379)
 - Chain-of-Verification (CoVe/CoV): [Paper](https://arxiv.org/abs/2309.11495)
 - Mixture-of-Agents (MoA): [Paper](https://arxiv.org/abs/2406.04692)
+- Tool-Integrated Reasoning (ToRA / TIR): [Paper](https://arxiv.org/abs/2309.17452)
+- Program of Thoughts (PoT): [Paper](https://arxiv.org/abs/2211.12588)
 
 
 ## Blog Posts
