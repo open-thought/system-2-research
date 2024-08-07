@@ -189,9 +189,12 @@ Weak methods are general but don't use knowledge (heuristics) to guide the searc
 ## Youtube Content
 
 - [MIT AGI: Cognitive Architecture (Nate Derbinsky)](https://www.youtube.com/watch?v=bfO4EkoGh40)
-- [Consciousness as a coherence-inducing operator](https://www.youtube.com/watch?v=qoHCQ1ozswA) Talk by Josha Bach at the [Models of Consciousness Conferences](https://models-of-consciousness.org/)
 - Channel: [David Shapiro](https://www.youtube.com/@DaveShap)
 - Channel: [Thinking About Thinking](https://www.youtube.com/@ThoughtChannel/videos) (Mathematics of Neuroscience and AI)
+
+### Joscha Bach
+- [Machine Consciousness](https://youtu.be/LlLbHm-bJQE)
+- [Consciousness as a coherence-inducing operator](https://www.youtube.com/watch?v=qoHCQ1ozswA) Talk by Josha Bach at the [Models of Consciousness Conferences](https://models-of-consciousness.org/)
 
 
 ## Best LLM APIs
