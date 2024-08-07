@@ -103,8 +103,15 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 
 ## Graph Neural Networks
 
+**Introductions and Courses**
 - Distill [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/) (2021)
 - [Geometric Deep Learning - Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/)
+- [Stanford CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+
+**Papers**
+- How Powerful are Graph Neural Networks: [Paper](https://arxiv.org/abs/1810.00826)
+- Graph Convolutional Networks (GCN): [Paper](https://arxiv.org/abs/1609.02907)
+- Design Space for Graph Neural Networks: [Paper](https://arxiv.org/abs/2011.08843)
 
 
 ## Algorithms
