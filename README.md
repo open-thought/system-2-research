@@ -91,6 +91,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - Mixture-of-Agents (MoA): [Paper](https://arxiv.org/abs/2406.04692)
 - Tool-Integrated Reasoning (ToRA / TIR): [Paper](https://arxiv.org/abs/2309.17452)
 - Program of Thoughts (PoT): [Paper](https://arxiv.org/abs/2211.12588)
+- Buffer of Thoughts (BoT): [Paper](https://arxiv.org/abs/2406.04271)
 
 
 ## Blog Posts
@@ -105,6 +106,15 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 
 - Distill [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/) (2021)
 - [Geometric Deep Learning - Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/)
+
+
+
+## Grokking
+
+- [Deep Networks Always Grok and Here is Why](https://imtiazhumayun.github.io/grokking/)
+- [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233), [review post](https://x.com/_clashluke/status/1820810798693818761) by [Lucas Nestler
+](https://x.com/_clashluke) 
+- [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 
 
 ## Algorithms
