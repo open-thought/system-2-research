@@ -48,6 +48,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Self-Discover: Large Language Models Self-Compose Reasoning Structures](https://arxiv.org/abs/2402.03620)
 - [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
+- [Large Language Models Can Self-Improve At Web Agent Tasks](https://arxiv.org/abs/2405.20309)
 
 
 #### Massive Sampling / Generate-and-Test
