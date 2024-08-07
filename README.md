@@ -11,12 +11,10 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 (looking for additional links & articles and summaries)
 
-- [SOAR](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)) by John Laird, Allen Newell, and Paul Rosenbloom
-resonance theory) by Stephen Grossberg and Gail Carpenter 
+- [SOAR](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)) (State, Operator, And Result) by John Laird, Allen Newell, and Paul Rosenbloom
 - [ACT-R](https://en.wikipedia.org/wiki/ACT-R) (Adaptive Control of Thought-Rational) by John Anderson at CMU
-- [SPAUN](https://www.nengo.ai/nengo-spa/user-guide/spa-intro.html) (Semantic Pointer Architecture Unified Network) by Chris Eliasmith at Waterloo
-- [SPAUN 2.0](https://core.ac.uk/download/pdf/158325694.pdf) by Feng-Xuan Choo
-- [ART](https://en.wikipedia.org/wiki/Adaptive_resonance_theory) (Adaptive 
+- [SPAUN](https://www.nengo.ai/nengo-spa/user-guide/spa-intro.html) (Semantic Pointer Architecture Unified Network) by Chris Eliasmith at Waterloo, [SPAUN 2.0](https://core.ac.uk/download/pdf/158325694.pdf) by Feng-Xuan Choo
+- [ART](https://en.wikipedia.org/wiki/Adaptive_resonance_theory) (Adaptive resonance theory) by Stephen Grossberg and Gail Carpenter
 - [CLARION](https://en.wikipedia.org/wiki/CLARION_(cognitive_architecture)) (Connectionist Learning with Adaptive Rule Induction ON-line) by Ron Sun
 - [EPIC](https://web.eecs.umich.edu/~kieras/epic.html) (Executive Process/Interactive Control) by David Kieras and David Meyer
 - [LIDA](https://en.wikipedia.org/wiki/LIDA_(cognitive_architecture)) (Learning Intelligent Distribution Agent) by Stan Franklin
@@ -27,8 +25,8 @@ resonance theory) by Stephen Grossberg and Gail Carpenter
 - [MicroPsi](http://cognitive-ai.com/publications/assets/MicroPsiArchitectureICCM03.pdf) by Joscha Bach
 - [Thousand Brains Theory](https://www.numenta.com/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/) & [HTM](https://www.numenta.com/resources/htm/) (Hierarchical Temporal Memory) by Jeff Hawkins
 - [SPH](https://ogma.ai/sph-technology-description/) (Sparse Predictive Hierarchie) by Eric Laukien
-- [Leabra](https://github.com/emer/leabra), [2016 Paper](https://ccnlab.org/papers/OReillyHazyHerd16.pdf) by [Randall O'Reilly](https://ccnlab.org/people/oreilly/)
-- [CogNGen](https://arxiv.org/abs/2310.15177), see also [here](https://osf.io/preprints/osf/cew42) and [here](https://arxiv.org/abs/2204.00619)
+- [Leabra](https://github.com/emer/leabra) (Local, Error-driven and Associative, Biologically Realistic Algorithm), [2016 Paper](https://ccnlab.org/papers/OReillyHazyHerd16.pdf) by [Randall O'Reilly](https://ccnlab.org/people/oreilly/)
+- [CogNGen](https://arxiv.org/abs/2310.15177) (COGnitive Neural GENerative system) by Alexander Ororbia and Mary Alexandria Kelly, see also [here](https://osf.io/preprints/osf/cew42) and [here](https://arxiv.org/abs/2204.00619)
 
 
 ## Agent Papers
@@ -49,10 +47,12 @@ resonance theory) by Stephen Grossberg and Gail Carpenter
 - MedAgent-Zero: [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)
 - [Self-Discover: Large Language Models Self-Compose Reasoning Structures](https://arxiv.org/abs/2402.03620)
 - [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)
+- [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 
 
 #### Massive Sampling / Generate-and-Test
 
+- [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
 - [Large Language Monkeys: Scaling Inference Compute
 with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [AlphaCode 2 Technical Report](https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf)
@@ -107,10 +107,24 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 
 ## Algorithms
 
-- [generate-and-test](https://www.geeksforgeeks.org/generate-and-test-search/)
 - [wake-sleep](https://en.wikipedia.org/wiki/Wake-sleep_algorithm)
 - [novelty-search](https://algorithmafternoon.com/novelty/novelty_search_algorithm/)
-- [monte-carlo-tree-search](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
+
+### Weak Search Methods
+Weak methods are general but don't use knowledge (heuristics) to guide the search process.
+
+  - [depth-first-search](https://en.wikipedia.org/wiki/Depth-first_search) (DFS)
+  - [breadth-first-search](https://en.wikipedia.org/wiki/Breadth-first_search) (BFS)
+  - depth-limited-search, [iterative-deepening-depth-first-search](https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search) (IDDFS)
+  - [generate-and-test](https://www.geeksforgeeks.org/generate-and-test-search/)
+  - [hill-climbing](https://en.wikipedia.org/wiki/Hill_climbing) (borderline case between weak and strong methods)
+
+### Strong Search Methods
+- [best-first-search](https://en.wikipedia.org/wiki/Best-first_search)
+- [A*](https://en.wikipedia.org/wiki/A*_search_algorithm)
+- [beam-search](https://en.wikipedia.org/wiki/Beam_search)
+- [monte-carlo-tree-search](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search) (MCTS)
+
 
 
 ## Books
@@ -162,15 +176,16 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 
 ## Youtube Content
 
-- [Understanding Human Learning and Abstraction Using Cognitive Models & Neural Networks](https://youtu.be/k_9nMt4V8nk) Maria Eckstein (DeepMind)
-- [Consciousness as a coherence-inducing operator](https://www.youtube.com/watch?v=qoHCQ1ozswA) Talk by Josha Bach at the [Models of Consciousness Conferences](https://models-of-consciousness.org/)
-- [David Shapiro](https://www.youtube.com/@DaveShap)
 - [MIT AGI: Cognitive Architecture (Nate Derbinsky)](https://www.youtube.com/watch?v=bfO4EkoGh40)
+- [Consciousness as a coherence-inducing operator](https://www.youtube.com/watch?v=qoHCQ1ozswA) Talk by Josha Bach at the [Models of Consciousness Conferences](https://models-of-consciousness.org/)
+- Channel: [David Shapiro](https://www.youtube.com/@DaveShap)
+- Channel: [Thinking About Thinking](https://www.youtube.com/@ThoughtChannel/videos) (Mathematics of Neuroscience and AI)
 
 
 ## Best LLM APIs
 
 - [Anthropic Claude](https://docs.anthropic.com/en/api/getting-started)
+- [together.ai](https://docs.together.ai/docs/introduction)
 
 
 ## How to contribute
