@@ -108,10 +108,15 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [Geometric Deep Learning - Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/)
 - [Stanford CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
+**Books**
+[Graph Representation Learning - William L. Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/)
+
 **Papers**
 - How Powerful are Graph Neural Networks: [Paper](https://arxiv.org/abs/1810.00826)
-- Graph Convolutional Networks (GCN): [Paper](https://arxiv.org/abs/1609.02907)
 - Design Space for Graph Neural Networks: [Paper](https://arxiv.org/abs/2011.08843)
+- Graph Convolutional Networks (GCN): [Paper](https://arxiv.org/abs/1609.02907)
+- Inductive Representation Learning on Large Graphs (GraphSAGE): [Paper](https://arxiv.org/abs/1706.02216)
+- Graph Attention Networks (GAT): [Paper](https://arxiv.org/abs/1710.10903)
 
 
 ## Algorithms
