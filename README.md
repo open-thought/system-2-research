@@ -49,7 +49,13 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 - [Large Language Models Can Self-Improve At Web Agent Tasks](https://arxiv.org/abs/2405.20309)
+- [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764)
+
+
+### Minecraft Agents
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
+- [JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models](https://arxiv.org/abs/2311.05997)
+- [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615)
 
 
 #### Massive Sampling / Generate-and-Test
@@ -72,6 +78,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [HYSYNTH: Context-Free LLM Approximation for Guiding Program Synthesis](https://arxiv.org/abs/2405.15880)
 - [SymbolicAI: A framework for logic-based approaches combining generative models and solvers](https://arxiv.org/abs/2402.00854)
 - [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381)
+- [A Neuro-vector-symbolic Architecture for Solving Raven's Progressive Matrices](https://arxiv.org/abs/2203.04571)
 
 
 ### Active Inference
@@ -84,6 +91,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - Surveys: 
    - (Feb 2024) [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/abs/2402.07927)
    - Prompt Engineering Guide [Prompting Techniques](https://www.promptingguide.ai/techniques)
+   - [Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/) by Eugene Yan
 - Chain-of-Thoughts (COT): [Paper](https://arxiv.org/abs/2201.11903)
 - Tree-of-Thoughts (ToT): [Paper](https://arxiv.org/pdf/2305.10601)
 - Graph-of-Thoughts (GoT): [Paper](https://arxiv.org/abs/2308.09687), [code](https://github.com/spcl/graph-of-thoughts)
@@ -116,6 +124,11 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233), [review post](https://x.com/_clashluke/status/1820810798693818761) by [Lucas Nestler
 ](https://x.com/_clashluke) 
 - [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
+
+
+## Open-Source Agents
+
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher)
 
 
 ## Algorithms
@@ -181,6 +194,7 @@ Weak methods are general but don't use knowledge (heuristics) to guide the searc
 - [ARC-AGI](https://arcprize.org/arc): [Leaderboard](https://arcprize.org/leaderboard), [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
 - PlanBench: [Paper](https://arxiv.org/abs/2206.10498), gh: [karthikv792/LLMs-Planning](https://github.com/karthikv792/LLMs-Planning)
 - [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983): [Leaderboard](https://gaia-benchmark-leaderboard.hf.space/)
+- [StreamBench: Towards Benchmarking Continuous Improvement of Language Agents](https://arxiv.org/pdf/2406.08747), gh: [stream-bench/stream-bench](https://github.com/stream-bench/stream-bench)
 
 ## Related Projects
 
