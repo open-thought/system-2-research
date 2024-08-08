@@ -59,7 +59,6 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [AlphaCode 2 Technical Report](https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf)
 
-
 ### World Models
 
 - [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)
@@ -155,7 +154,7 @@ Weak methods are general but don't use knowledge (heuristics) to guide the searc
 
 - Ogma Sparse Predictive Hierarchies (SPH): [whitepaper](https://ogma.ai/sph-technology-description/)
 - [The Tolman-Eichenbaum Machine: Unifying space and relational memory through generalisation in the hippocampal formation](https://www.biorxiv.org/content/10.1101/770495v2) (TEM), [TEM-t](https://arxiv.org/abs/2112.04035)
-
+- [Arousal as a universal embedding for spatiotemporal brain dynamics](https://www.biorxiv.org/content/10.1101/2023.11.06.565918v2)
 
 ## Software Tools & Libraries
 
@@ -203,7 +202,7 @@ Weak methods are general but don't use knowledge (heuristics) to guide the searc
 
 - [Anthropic Claude](https://docs.anthropic.com/en/api/getting-started)
 - [together.ai](https://docs.together.ai/docs/introduction)
-
+- [groq.com](https://console.groq.com)
 
 ## Workshops
 
