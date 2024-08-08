@@ -204,6 +204,11 @@ Weak methods are general but don't use knowledge (heuristics) to guide the searc
 - [together.ai](https://docs.together.ai/docs/introduction)
 
 
+## Workshops
+
+https://s2r-at-scale-workshop.github.io (NeurIPS 2024)
+
+
 ## How to contribute
 
  To share a link related to reasoning in AI systems that is missing here please create a pull request for this file. See [editing files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) in the github documentation.
