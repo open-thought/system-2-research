@@ -108,7 +108,31 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - Distill [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/) (2021)
 - [Geometric Deep Learning - Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/)
 
+### Complex Logical Query Answering (CQLA)
+Answering logical queries over Incomplete Knowledge Graphs. Aspirationally this requires combining sparse symbolic index collation (SQL, SPARQL, etc) and dense vector search, preferably in a differentiable manner.
+- [Neural Graph Reasoning: Complex Logical Query Answering Meets Graph Databases](https://arxiv.org/abs/2303.14617)
+- [Adapting Neural Link Predictors for Data-Efficient Complex Query Answering](https://openreview.net/forum?id=1G7CBp8o7L&referrer=%5Bthe%20profile%20of%20Erik%20Arakelyan%5D(%2Fprofile%3Fid%3D~Erik_Arakelyan1))
+- [Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization](https://openreview.net/forum?id=Sv4u9PtvT5)
+- [Knowledge Sheaves: A Sheaf-Theoretic Framework for Knowledge Graph Embedding](https://arxiv.org/abs/2110.03789)
+- [Wasserstein-Fisher-Rao Embedding: Logical Query Embeddings with Local Comparison and Global Transport](https://arxiv.org/abs/2305.04034)
+- [GammaE: Gamma Embeddings for Logical Queries on Knowledge Graphs](https://arxiv.org/abs/2210.15578)
+- [Soft Reasoning on Uncertain Knowledge Graphs](https://arxiv.org/abs/2403.01508)
 
+### Inductive Reasoning over Heterogeneous Graphs
+Similar to the regular CQLA, but with the emphasis on the "Inductive Setting" - i.e. querying over new, unseen during training nodes, edge types or even entire graphs. The latter part is interesting as it relies on the higher order "relations between relations" structure, connecting KG inference to Category Theory. 
+- [Zero-shot Logical Query Reasoning on any Knowledge Graph](https://arxiv.org/abs/2404.07198)
+- [Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference](https://arxiv.org/abs/2309.03773)
+- [Neural-Symbolic Models for Logical Queries on Knowledge Graphs](https://arxiv.org/abs/2205.10128)
+- [InGram: Inductive Knowledge Graph Embedding via Relation Graphs](https://arxiv.org/abs/2305.19987)
+
+### Neural Algorithmic Reasoning (NAR)
+Initially attempted back in 2014 with general-purpouse but unstable Neural Turing Machines, modern NAR approaches limit their scope to making GNN-based "Algorithmic Processor Networks" which learn to mimic classical algorithms on synthetic data and can be deployed on noisy real-world problems by sandwitching their frozen instances inside Encoder-Processor-Decoder architecture. 
+- [Neural Turing Machines, 2014](https://arxiv.org/abs/1410.5401)
+- [A Generalist Neural Algorithmic Learner](https://openreview.net/forum?id=FebadKZf6Gd)
+- [Transformers meet Neural Algorithmic Reasoners](https://arxiv.org/abs/2406.09308)
+- [Recursive Algorithmic Reasoning](https://arxiv.org/abs/2307.00337)
+- [Dual Algorithmic Reasoning](https://arxiv.org/abs/2302.04496)
+- [Learning to Configure Computer Networks with Neural Algorithmic Reasoning](https://arxiv.org/abs/2211.01980)
 
 ## Grokking
 
