@@ -27,6 +27,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [SPH](https://ogma.ai/sph-technology-description/) (Sparse Predictive Hierarchie) by Eric Laukien
 - [Leabra](https://github.com/emer/leabra) (Local, Error-driven and Associative, Biologically Realistic Algorithm), [2016 Paper](https://ccnlab.org/papers/OReillyHazyHerd16.pdf) by [Randall O'Reilly](https://ccnlab.org/people/oreilly/)
 - [CogNGen](https://arxiv.org/abs/2310.15177) (COGnitive Neural GENerative system) by Alexander Ororbia and Mary Alexandria Kelly, see also [here](https://osf.io/preprints/osf/cew42) and [here](https://arxiv.org/abs/2204.00619)
+- [KIX](https://arxiv.org/abs/2402.05346) (KIX: A Metacognitive Generalization Framework) by A. Kumar and Paul Schrater
 
 
 ## Agent Papers
@@ -151,10 +152,21 @@ Weak methods are general but don't use knowledge (heuristics) to guide the searc
 
 
 ## Biologically Inspired Approaches
-
+Diverse approaches some of which tap into classical PDE systems of biological NNs, some concentrate on Distibuted Sparse Representations (by default non-differentiable), others draw inspiration from Hippocampal Grid Cells, Place Cells, etc. Biological systems surpass most ML methods for Continual and Online Learning, but are hard to implement efficienly on GPU.  
 - Ogma Sparse Predictive Hierarchies (SPH): [whitepaper](https://ogma.ai/sph-technology-description/)
 - [The Tolman-Eichenbaum Machine: Unifying space and relational memory through generalisation in the hippocampal formation](https://www.biorxiv.org/content/10.1101/770495v2) (TEM), [TEM-t](https://arxiv.org/abs/2112.04035)
 - [Arousal as a universal embedding for spatiotemporal brain dynamics](https://www.biorxiv.org/content/10.1101/2023.11.06.565918v2)
+- [Sparse Distributed Memory is a Continual Learner](https://openreview.net/forum?id=JknGeelZJpHP)
+- [Computation with Sequences of Assemblies in a Model of the Brain](https://proceedings.mlr.press/v237/dabagia24a.html)
+- [Artem Kirsanov channel, here on Engrams](https://www.youtube.com/watch?v=X5trRLX7PQY&t=493s)
+
+### Dense Associative Memory 
+Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN), which [can be viewed](https://arxiv.org/abs/2008.02217) as a generalized Transformers capable of storing queries, keys and values explicitly (as in Vector Databases) and running recurrent retrival by energy minimization ([relating them](https://openreview.net/forum?id=B1BL9go65H&referrer=%5Bthe%20profile%20of%20Judy%20Hoffman%5D(%2Fprofile%3Fid%3D~Judy_Hoffman1)) to Diffusion models). Application for Continual Learning is possible when combined with uncertainty quantification and differentiable top-k selection.
+- [xLSTM repository](https://github.com/NX-AI/xlstm)
+- [CAMELoT: Towards Large Language Models with Training-Free Consolidated Associative Memory](https://arxiv.org/abs/2402.13449)
+- [Energy Transformer](https://proceedings.neurips.cc/paper_files/paper/2023/hash/57a9b97477b67936298489e3c1417b0a-Abstract-Conference.html)
+- [Memorization and consolidation in associative memory networks](https://openreview.net/forum?id=hXef89mdlH)
+- [Simplicial Hopfield networks](https://openreview.net/forum?id=_QLsH8gatwx)
 
 ## Software Tools & Libraries
 
