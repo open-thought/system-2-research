@@ -49,6 +49,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 - [Large Language Models Can Self-Improve At Web Agent Tasks](https://arxiv.org/abs/2405.20309)
+- [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
 
 
 #### Massive Sampling / Generate-and-Test
