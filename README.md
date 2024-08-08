@@ -57,7 +57,6 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Large Language Monkeys: Scaling Inference Compute
 with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [AlphaCode 2 Technical Report](https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf)
-- [AlphaGeometry: An Olympiad-level AI system for geometry](https://www.nature.com/articles/s41586-023-06747-5)
 
 ### World Models
 
