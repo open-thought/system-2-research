@@ -126,7 +126,7 @@ Similar to the regular CQLA, but with the emphasis on the "Inductive Setting" - 
 - [InGram: Inductive Knowledge Graph Embedding via Relation Graphs](https://arxiv.org/abs/2305.19987)
 
 ### Neural Algorithmic Reasoning (NAR)
-Initially attempted back in 2014 with general-purpouse but unstable Neural Turing Machines, modern NAR approaches limit their scope to making GNN-based "Algorithmic Processor Networks" which learn to mimic classical algorithms on synthetic data and can be deployed on noisy real-world problems by sandwitching their frozen instances inside Encoder-Processor-Decoder architecture. 
+Initially attempted back in 2014 with general-purpose but unstable Neural Turing Machines, modern NAR approaches limit their scope to making GNN-based "Algorithmic Processor Networks" which learn to mimic classical algorithms on synthetic data and can be deployed on noisy real-world problems by sandwiching their frozen instances inside Encoder-Processor-Decoder architecture.
 - [Neural Turing Machines, 2014](https://arxiv.org/abs/1410.5401)
 - [A Generalist Neural Algorithmic Learner](https://openreview.net/forum?id=FebadKZf6Gd)
 - [Transformers meet Neural Algorithmic Reasoners](https://arxiv.org/abs/2406.09308)
