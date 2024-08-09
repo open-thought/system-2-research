@@ -50,7 +50,13 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 - [Large Language Models Can Self-Improve At Web Agent Tasks](https://arxiv.org/abs/2405.20309)
+- [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764)
+
+
+### Minecraft Agents
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
+- [JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models](https://arxiv.org/abs/2311.05997)
+- [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615)
 
 
 #### Massive Sampling / Generate-and-Test
@@ -73,6 +79,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [HYSYNTH: Context-Free LLM Approximation for Guiding Program Synthesis](https://arxiv.org/abs/2405.15880)
 - [SymbolicAI: A framework for logic-based approaches combining generative models and solvers](https://arxiv.org/abs/2402.00854)
 - [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381)
+- [A Neuro-vector-symbolic Architecture for Solving Raven's Progressive Matrices](https://arxiv.org/abs/2203.04571)
 
 
 ### Active Inference
@@ -85,6 +92,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - Surveys: 
    - (Feb 2024) [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/abs/2402.07927)
    - Prompt Engineering Guide [Prompting Techniques](https://www.promptingguide.ai/techniques)
+   - [Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/) by Eugene Yan
 - Chain-of-Thoughts (COT): [Paper](https://arxiv.org/abs/2201.11903)
 - Tree-of-Thoughts (ToT): [Paper](https://arxiv.org/pdf/2305.10601)
 - Graph-of-Thoughts (GoT): [Paper](https://arxiv.org/abs/2308.09687), [code](https://github.com/spcl/graph-of-thoughts)
@@ -109,7 +117,31 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - Distill [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/) (2021)
 - [Geometric Deep Learning - Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/)
 
+### Complex Logical Query Answering (CQLA)
+Answering logical queries over Incomplete Knowledge Graphs. Aspirationally this requires combining sparse symbolic index collation (SQL, SPARQL, etc) and dense vector search, preferably in a differentiable manner.
+- [Neural Graph Reasoning: Complex Logical Query Answering Meets Graph Databases](https://arxiv.org/abs/2303.14617)
+- [Adapting Neural Link Predictors for Data-Efficient Complex Query Answering](https://openreview.net/forum?id=1G7CBp8o7L&referrer=%5Bthe%20profile%20of%20Erik%20Arakelyan%5D(%2Fprofile%3Fid%3D~Erik_Arakelyan1))
+- [Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization](https://openreview.net/forum?id=Sv4u9PtvT5)
+- [Knowledge Sheaves: A Sheaf-Theoretic Framework for Knowledge Graph Embedding](https://arxiv.org/abs/2110.03789)
+- [Wasserstein-Fisher-Rao Embedding: Logical Query Embeddings with Local Comparison and Global Transport](https://arxiv.org/abs/2305.04034)
+- [GammaE: Gamma Embeddings for Logical Queries on Knowledge Graphs](https://arxiv.org/abs/2210.15578)
+- [Soft Reasoning on Uncertain Knowledge Graphs](https://arxiv.org/abs/2403.01508)
 
+### Inductive Reasoning over Heterogeneous Graphs
+Similar to the regular CQLA, but with the emphasis on the "Inductive Setting" - i.e. querying over new, unseen during training nodes, edge types or even entire graphs. The latter part is interesting as it relies on the higher order "relations between relations" structure, connecting KG inference to Category Theory. 
+- [Zero-shot Logical Query Reasoning on any Knowledge Graph](https://arxiv.org/abs/2404.07198)
+- [Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference](https://arxiv.org/abs/2309.03773)
+- [Neural-Symbolic Models for Logical Queries on Knowledge Graphs](https://arxiv.org/abs/2205.10128)
+- [InGram: Inductive Knowledge Graph Embedding via Relation Graphs](https://arxiv.org/abs/2305.19987)
+
+### Neural Algorithmic Reasoning (NAR)
+Initially attempted back in 2014 with general-purpose but unstable Neural Turing Machines, modern NAR approaches limit their scope to making GNN-based "Algorithmic Processor Networks" which learn to mimic classical algorithms on synthetic data and can be deployed on noisy real-world problems by sandwiching their frozen instances inside Encoder-Processor-Decoder architecture.
+- [Neural Turing Machines, 2014](https://arxiv.org/abs/1410.5401)
+- [A Generalist Neural Algorithmic Learner](https://openreview.net/forum?id=FebadKZf6Gd)
+- [Transformers meet Neural Algorithmic Reasoners](https://arxiv.org/abs/2406.09308)
+- [Recursive Algorithmic Reasoning](https://arxiv.org/abs/2307.00337)
+- [Dual Algorithmic Reasoning](https://arxiv.org/abs/2302.04496)
+- [Learning to Configure Computer Networks with Neural Algorithmic Reasoning](https://arxiv.org/abs/2211.01980)
 
 ## Grokking
 
@@ -117,6 +149,11 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233), [review post](https://x.com/_clashluke/status/1820810798693818761) by [Lucas Nestler
 ](https://x.com/_clashluke) 
 - [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
+
+
+## Open-Source Agents
+
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher)
 
 
 ## Algorithms
@@ -193,6 +230,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [ARC-AGI](https://arcprize.org/arc): [Leaderboard](https://arcprize.org/leaderboard), [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
 - PlanBench: [Paper](https://arxiv.org/abs/2206.10498), gh: [karthikv792/LLMs-Planning](https://github.com/karthikv792/LLMs-Planning)
 - [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983): [Leaderboard](https://gaia-benchmark-leaderboard.hf.space/)
+- [StreamBench: Towards Benchmarking Continuous Improvement of Language Agents](https://arxiv.org/pdf/2406.08747), gh: [stream-bench/stream-bench](https://github.com/stream-bench/stream-bench)
 
 ## Related Projects
 
@@ -215,6 +253,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [Anthropic Claude](https://docs.anthropic.com/en/api/getting-started)
 - [together.ai](https://docs.together.ai/docs/introduction)
 - [groq.com](https://console.groq.com)
+- [openrouter.ai](https://openrouter.ai/)
 
 ## Workshops
 
