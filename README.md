@@ -195,7 +195,6 @@ Diverse approaches some of which tap into classical PDE systems of biological NN
 - [Arousal as a universal embedding for spatiotemporal brain dynamics](https://www.biorxiv.org/content/10.1101/2023.11.06.565918v2)
 - [Sparse Distributed Memory is a Continual Learner](https://openreview.net/forum?id=JknGeelZJpHP)
 - [Computation with Sequences of Assemblies in a Model of the Brain](https://proceedings.mlr.press/v237/dabagia24a.html)
-- [Artem Kirsanov channel, here on Engrams](https://www.youtube.com/watch?v=X5trRLX7PQY&t=493s)
 
 ### Dense Associative Memory 
 Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN), which [can be viewed](https://arxiv.org/abs/2008.02217) as a generalized Transformers capable of storing queries, keys and values explicitly (as in Vector Databases) and running recurrent retrival by energy minimization ([relating them](https://openreview.net/forum?id=B1BL9go65H&referrer=%5Bthe%20profile%20of%20Judy%20Hoffman%5D(%2Fprofile%3Fid%3D~Judy_Hoffman1)) to Diffusion models). Application for Continual Learning is possible when combined with uncertainty quantification and differentiable top-k selection.
@@ -242,6 +241,8 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [MIT AGI: Cognitive Architecture (Nate Derbinsky)](https://www.youtube.com/watch?v=bfO4EkoGh40)
 - Channel: [David Shapiro](https://www.youtube.com/@DaveShap)
 - Channel: [Thinking About Thinking](https://www.youtube.com/@ThoughtChannel/videos) (Mathematics of Neuroscience and AI)
+- [Artem Kirsanov on Cognitive Neuroscience](https://www.youtube.com/watch?v=X5trRLX7PQY&t=493s)
+
 
 ### Joscha Bach
 - [Machine Consciousness](https://youtu.be/LlLbHm-bJQE)
