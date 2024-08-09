@@ -241,6 +241,7 @@ Weak methods are general but don't use knowledge (heuristics) to guide the searc
 - [Anthropic Claude](https://docs.anthropic.com/en/api/getting-started)
 - [together.ai](https://docs.together.ai/docs/introduction)
 - [groq.com](https://console.groq.com)
+- [openrouter.ai](https://openrouter.ai/)
 
 ## Workshops
 
