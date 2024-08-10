@@ -51,6 +51,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 - [Large Language Models Can Self-Improve At Web Agent Tasks](https://arxiv.org/abs/2405.20309)
 - [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764)
+- [Turning large language models into cognitive models](https://arxiv.org/abs/2306.03917)
 
 
 ### Minecraft Agents
