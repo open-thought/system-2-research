@@ -154,6 +154,7 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 ## Open-Source Agents
 
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+- [AgentK](https://github.com/mikekelly/AgentK)
 
 
 ## Algorithms
@@ -207,6 +208,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 ## Software Tools & Libraries
 
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
+- [continuedev/continue](https://github.com/continuedev/continue)
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent), [documentation](https://princeton-nlp.github.io/SWE-agent/)
 - [meta-llama/llama-agentic-system](https://github.com/meta-llama/llama-agentic-system)
@@ -225,6 +227,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 # Competitions & Benchmarks
 
+- [CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents](https://arxiv.org/abs/2407.01511), gh: [camel-ai/crab](https://github.com/camel-ai/crab)
 - [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://arxiv.org/abs/2307.13854), web: [project page](https://webarena.dev/), [Leaderboard](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?usp=sharing)
 - [ARC-AGI](https://arcprize.org/arc): [Leaderboard](https://arcprize.org/leaderboard), [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
 - PlanBench: [Paper](https://arxiv.org/abs/2206.10498), gh: [karthikv792/LLMs-Planning](https://github.com/karthikv792/LLMs-Planning)
