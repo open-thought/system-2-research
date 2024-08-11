@@ -51,12 +51,14 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 - [Large Language Models Can Self-Improve At Web Agent Tasks](https://arxiv.org/abs/2405.20309)
 - [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764)
+- [Reasoning with Large Language Models, a Survey](https://arxiv.org/abs/2407.11511) (Jul 2024)
 
 
 ### Minecraft Agents
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
 - [JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models](https://arxiv.org/abs/2311.05997)
 - [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615)
+- [STEVE Series: Step-by-Step Construction of Agent Systems in Minecraft](https://arxiv.org/abs/2406.11247)
 
 
 #### Massive Sampling / Generate-and-Test
@@ -178,7 +180,6 @@ Weak methods are general but don't use knowledge (heuristics) to guide the searc
 - [monte-carlo-tree-search](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search) (MCTS)
 
 
-
 ## Books
 
 - [The Soar Cognitive Architecture](https://a.co/d/cXo8KFu), John E. Laird, MIT Press, 2019
@@ -204,6 +205,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [Energy Transformer](https://proceedings.neurips.cc/paper_files/paper/2023/hash/57a9b97477b67936298489e3c1417b0a-Abstract-Conference.html)
 - [Memorization and consolidation in associative memory networks](https://openreview.net/forum?id=hXef89mdlH)
 - [Simplicial Hopfield networks](https://openreview.net/forum?id=_QLsH8gatwx)
+
 
 ## Software Tools & Libraries
 
@@ -241,10 +243,11 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 ## Youtube Content
 
-- [MIT AGI: Cognitive Architecture (Nate Derbinsky)](https://www.youtube.com/watch?v=bfO4EkoGh40)
 - Channel: [David Shapiro](https://www.youtube.com/@DaveShap)
+- [Artem Kirsanov: Engrams, Building Blocks of Memory in the Brain](https://www.youtube.com/watch?v=X5trRLX7PQY)
+- Channel: [Edan Meyer on AI, ML & RL](https://www.youtube.com/@EdanMeyer), [Discrete vs. Continuous RL](https://www.youtube.com/watch?v=s8RqGlU5HEs) + [Paper](https://arxiv.org/abs/2312.01203)
+- [MIT AGI: Cognitive Architecture (Nate Derbinsky)](https://www.youtube.com/watch?v=bfO4EkoGh40)
 - Channel: [Thinking About Thinking](https://www.youtube.com/@ThoughtChannel/videos) (Mathematics of Neuroscience and AI)
-- [Artem Kirsanov on Cognitive Neuroscience](https://www.youtube.com/watch?v=X5trRLX7PQY&t=493s)
 
 
 ### Joscha Bach
