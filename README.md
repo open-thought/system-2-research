@@ -105,6 +105,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - Tool-Integrated Reasoning (ToRA / TIR): [Paper](https://arxiv.org/abs/2309.17452)
 - Program of Thoughts (PoT): [Paper](https://arxiv.org/abs/2211.12588)
 - Buffer of Thoughts (BoT): [Paper](https://arxiv.org/abs/2406.04271)
+- Chain of Code (CoC): [Paper](https://arxiv.org/abs/2312.04474)
 
 
 ## Blog Posts
