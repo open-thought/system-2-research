@@ -117,6 +117,8 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - Schmidhuber: [Artificial Curiosity & Creativity](https://people.idsia.ch/~juergen/artificial-curiosity-since-1990.html)
 - synthesis.ai: [Do Androids Dream? World Models in Modern AI](https://synthesis.ai/2024/07/02/do-androids-dream-world-models-in-modern-ai/)
 - [Our Transformers Code Agent beats the GAIA benchmark!](https://huggingface.co/blog/beating-gaia)
+- https://lilianweng.github.io/posts/2023-06-23-agent/
+- Lil'Log [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) (Jun 2023 )
 
 
 ## Graph Neural Networks
