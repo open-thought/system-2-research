@@ -116,7 +116,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [Getting 50% (SoTA) on ARC-AGI with GPT-4o](https://www.lesswrong.com/posts/Rdwui3wHxCeKb7feK/getting-50-sota-on-arc-agi-with-gpt-4o)
 - Schmidhuber: [Artificial Curiosity & Creativity](https://people.idsia.ch/~juergen/artificial-curiosity-since-1990.html)
 - synthesis.ai: [Do Androids Dream? World Models in Modern AI](https://synthesis.ai/2024/07/02/do-androids-dream-world-models-in-modern-ai/)
-- cosine: [Technical Report: Building Genie](https://cosine.sh/blog/genie-technical-report) (30% SWE-Bench)
+- [Our Transformers Code Agent beats the GAIA benchmark!](https://huggingface.co/blog/beating-gaia)
 
 
 ## Graph Neural Networks
@@ -232,6 +232,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
   - [Cursor](https://www.cursor.com/)
   - [copilot-workspace](https://githubnext.com/projects/copilot-workspace)
   - [textgrad](https://textgrad.com/)
+  - [Cosine Genie](https://cosine.sh/genie)
 
 
 # Competitions & Benchmarks
