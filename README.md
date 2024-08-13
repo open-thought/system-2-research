@@ -34,6 +34,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ### LLM Based
 
+- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292), gh: [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
 - [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)
 - [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/abs/2405.15793)
 - [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496)
@@ -51,6 +52,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 - [Large Language Models Can Self-Improve At Web Agent Tasks](https://arxiv.org/abs/2405.20309)
 - [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764)
+- [A Prefrontal Cortex-inspired Architecture for Planning in Large Language Models](https://arxiv.org/abs/2310.00194)
 - Survey: [Reasoning with Large Language Models, a Survey](https://arxiv.org/abs/2407.11511) (Jul 2024)
 - Survey: [From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future](https://arxiv.org/abs/2408.02479) (Aug 2024)
 
