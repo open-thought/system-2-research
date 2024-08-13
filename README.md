@@ -161,6 +161,7 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 ## Open-Source Agents
 
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+- [open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [AgentK](https://github.com/mikekelly/AgentK)
 
 
@@ -243,6 +244,10 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - PlanBench: [Paper](https://arxiv.org/abs/2206.10498), gh: [karthikv792/LLMs-Planning](https://github.com/karthikv792/LLMs-Planning)
 - [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983): [Leaderboard](https://gaia-benchmark-leaderboard.hf.space/)
 - [StreamBench: Towards Benchmarking Continuous Improvement of Language Agents](https://arxiv.org/pdf/2406.08747), gh: [stream-bench/stream-bench](https://github.com/stream-bench/stream-bench)
+
+### Code
+- [BigCodeBench: The Next Generation of HumanEval](https://huggingface.co/blog/leaderboard-bigcodebench), [Leaderboard](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)
+- [SciCode: A Research Coding Benchmark Curated by Scientists](https://arxiv.org/abs/2407.13168), web: https://scicode-bench.github.io/
 
 ## Related Projects
 
