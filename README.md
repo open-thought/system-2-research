@@ -246,8 +246,10 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [StreamBench: Towards Benchmarking Continuous Improvement of Language Agents](https://arxiv.org/pdf/2406.08747), gh: [stream-bench/stream-bench](https://github.com/stream-bench/stream-bench)
 
 ### Code
+- [SWE-bench](https://www.swebench.com/index.html), [SWE-bench Lite](https://www.swebench.com/lite.html)
 - [BigCodeBench: The Next Generation of HumanEval](https://huggingface.co/blog/leaderboard-bigcodebench), [Leaderboard](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)
 - [SciCode: A Research Coding Benchmark Curated by Scientists](https://arxiv.org/abs/2407.13168), web: https://scicode-bench.github.io/
+
 
 ## Related Projects
 
