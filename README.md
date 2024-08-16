@@ -54,6 +54,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764)
 - [A Prefrontal Cortex-inspired Architecture for Planning in Large Language Models](https://arxiv.org/abs/2310.00194)
 - [CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization](https://arxiv.org/abs/2310.10134)
+- [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](https://arxiv.org/abs/2408.08152)
 - Survey: [Reasoning with Large Language Models, a Survey](https://arxiv.org/abs/2407.11511) (Jul 2024)
 - Survey: [From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future](https://arxiv.org/abs/2408.02479) (Aug 2024)
 
@@ -166,6 +167,7 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher)
 - [open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [AgentK](https://github.com/mikekelly/AgentK)
+- [Storm](https://github.com/stanford-oval/storm), [Paper](https://arxiv.org/abs/2402.14207)
 
 
 ## Algorithms
