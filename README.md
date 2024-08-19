@@ -57,6 +57,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](https://arxiv.org/abs/2408.08152)
 - Survey: [Reasoning with Large Language Models, a Survey](https://arxiv.org/abs/2407.11511) (Jul 2024)
 - Survey: [From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future](https://arxiv.org/abs/2408.02479) (Aug 2024)
+- [ADAS: Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435)
 
 
 ### Minecraft Agents
