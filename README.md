@@ -28,6 +28,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Leabra](https://github.com/emer/leabra) (Local, Error-driven and Associative, Biologically Realistic Algorithm), [2016 Paper](https://ccnlab.org/papers/OReillyHazyHerd16.pdf) by [Randall O'Reilly](https://ccnlab.org/people/oreilly/)
 - [CogNGen](https://arxiv.org/abs/2310.15177) (COGnitive Neural GENerative system) by Alexander Ororbia and Mary Alexandria Kelly, see also [here](https://osf.io/preprints/osf/cew42) and [here](https://arxiv.org/abs/2204.00619)
 - [KIX](https://arxiv.org/abs/2402.05346) (KIX: A Metacognitive Generalization Framework) by A. Kumar and Paul Schrater
+- [ACE](https://arxiv.org/abs/2310.06775) (Autonomous Cognitive Entity) by David Shapiro et al.
 
 
 ## Agent Papers
@@ -58,6 +59,8 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - Survey: [Reasoning with Large Language Models, a Survey](https://arxiv.org/abs/2407.11511) (Jul 2024)
 - Survey: [From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future](https://arxiv.org/abs/2408.02479) (Aug 2024)
 - [ADAS: Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435)
+- [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199)
+- rStar: [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
 
 
 ### Minecraft Agents
@@ -97,7 +100,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 
 ## Prompting Techniques
 
-- Surveys: 
+- Surveys:
    - (Feb 2024) [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/abs/2402.07927)
    - Prompt Engineering Guide [Prompting Techniques](https://www.promptingguide.ai/techniques)
    - [Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/) by Eugene Yan
@@ -140,7 +143,7 @@ Answering logical queries over Incomplete Knowledge Graphs. Aspirationally this 
 - [Soft Reasoning on Uncertain Knowledge Graphs](https://arxiv.org/abs/2403.01508)
 
 ### Inductive Reasoning over Heterogeneous Graphs
-Similar to the regular CQLA, but with the emphasis on the "Inductive Setting" - i.e. querying over new, unseen during training nodes, edge types or even entire graphs. The latter part is interesting as it relies on the higher order "relations between relations" structure, connecting KG inference to Category Theory. 
+Similar to the regular CQLA, but with the emphasis on the "Inductive Setting" - i.e. querying over new, unseen during training nodes, edge types or even entire graphs. The latter part is interesting as it relies on the higher order "relations between relations" structure, connecting KG inference to Category Theory.
 - [Zero-shot Logical Query Reasoning on any Knowledge Graph](https://arxiv.org/abs/2404.07198)
 - [Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference](https://arxiv.org/abs/2309.03773)
 - [Neural-Symbolic Models for Logical Queries on Knowledge Graphs](https://arxiv.org/abs/2205.10128)
@@ -159,7 +162,7 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 
 - [Deep Networks Always Grok and Here is Why](https://imtiazhumayun.github.io/grokking/)
 - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233), [review post](https://x.com/_clashluke/status/1820810798693818761) by [Lucas Nestler
-](https://x.com/_clashluke) 
+](https://x.com/_clashluke)
 - [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 
 
@@ -205,14 +208,14 @@ Weak methods are general but don't use knowledge (heuristics) to guide the searc
 
 
 ## Biologically Inspired Approaches
-Diverse approaches some of which tap into classical PDE systems of biological NNs, some concentrate on Distibuted Sparse Representations (by default non-differentiable), others draw inspiration from Hippocampal Grid Cells, Place Cells, etc. Biological systems surpass most ML methods for Continual and Online Learning, but are hard to implement efficienly on GPU.  
+Diverse approaches some of which tap into classical PDE systems of biological NNs, some concentrate on Distibuted Sparse Representations (by default non-differentiable), others draw inspiration from Hippocampal Grid Cells, Place Cells, etc. Biological systems surpass most ML methods for Continual and Online Learning, but are hard to implement efficienly on GPU.
 - Ogma Sparse Predictive Hierarchies (SPH): [whitepaper](https://ogma.ai/sph-technology-description/)
 - [The Tolman-Eichenbaum Machine: Unifying space and relational memory through generalisation in the hippocampal formation](https://www.biorxiv.org/content/10.1101/770495v2) (TEM), [TEM-t](https://arxiv.org/abs/2112.04035)
 - [Arousal as a universal embedding for spatiotemporal brain dynamics](https://www.biorxiv.org/content/10.1101/2023.11.06.565918v2)
 - [Sparse Distributed Memory is a Continual Learner](https://openreview.net/forum?id=JknGeelZJpHP)
 - [Computation with Sequences of Assemblies in a Model of the Brain](https://proceedings.mlr.press/v237/dabagia24a.html)
 
-### Dense Associative Memory 
+### Dense Associative Memory
 Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN), which [can be viewed](https://arxiv.org/abs/2008.02217) as a generalized Transformers capable of storing queries, keys and values explicitly (as in Vector Databases) and running recurrent retrival by energy minimization ([relating them](https://openreview.net/forum?id=B1BL9go65H&referrer=%5Bthe%20profile%20of%20Judy%20Hoffman%5D(%2Fprofile%3Fid%3D~Judy_Hoffman1)) to Diffusion models). Application for Continual Learning is possible when combined with uncertainty quantification and differentiable top-k selection.
 - [xLSTM repository](https://github.com/NX-AI/xlstm)
 - [CAMELoT: Towards Large Language Models with Training-Free Consolidated Associative Memory](https://arxiv.org/abs/2402.13449)
@@ -251,6 +254,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983): [Leaderboard](https://gaia-benchmark-leaderboard.hf.space/)
 - [StreamBench: Towards Benchmarking Continuous Improvement of Language Agents](https://arxiv.org/pdf/2406.08747), gh: [stream-bench/stream-bench](https://github.com/stream-bench/stream-bench)
 - [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents](https://arxiv.org/abs/2408.06327)
+- [ZebraLogic](https://huggingface.co/blog/yuchenlin/zebra-logic), [Leaderboard](https://huggingface.co/spaces/allenai/ZebraLogic)
 
 ### Code
 - [SWE-bench](https://www.swebench.com/index.html), [SWE-bench Lite](https://www.swebench.com/lite.html)
@@ -270,6 +274,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - Channel: [Edan Meyer on AI, ML & RL](https://www.youtube.com/@EdanMeyer), [Discrete vs. Continuous RL](https://www.youtube.com/watch?v=s8RqGlU5HEs) + [Paper](https://arxiv.org/abs/2312.01203)
 - [MIT AGI: Cognitive Architecture (Nate Derbinsky)](https://www.youtube.com/watch?v=bfO4EkoGh40)
 - Channel: [Thinking About Thinking](https://www.youtube.com/@ThoughtChannel/videos) (Mathematics of Neuroscience and AI)
+- [Invariance and equivariance in brains and machines](https://youtu.be/xnhhp916JNU?si=VpiDQDbFafyNAlMW)
 
 
 ### Joscha Bach
@@ -283,6 +288,12 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [together.ai](https://docs.together.ai/docs/introduction)
 - [groq.com](https://console.groq.com)
 - [openrouter.ai](https://openrouter.ai/)
+
+
+## Novel model architectures
+
+- [Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities](https://arxiv.org/abs/2311.05698)
+
 
 ## Workshops
 
