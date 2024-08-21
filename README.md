@@ -29,6 +29,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [CogNGen](https://arxiv.org/abs/2310.15177) (COGnitive Neural GENerative system) by Alexander Ororbia and Mary Alexandria Kelly, see also [here](https://osf.io/preprints/osf/cew42) and [here](https://arxiv.org/abs/2204.00619)
 - [KIX](https://arxiv.org/abs/2402.05346) (KIX: A Metacognitive Generalization Framework) by A. Kumar and Paul Schrater
 - [ACE](https://arxiv.org/abs/2310.06775) (Autonomous Cognitive Entity) by David Shapiro et al., gh: [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework)
+- [Iterative Updating of Working Memory](https://arxiv.org/abs/2203.17255) by Jared Reser, [website](https://aithought.com/), [Video](https://youtu.be/R2H2Pl0I6EA?si=DlO0j-WxhG5TaJeN)
 
 
 ## Agent Papers
