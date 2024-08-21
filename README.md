@@ -28,7 +28,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Leabra](https://github.com/emer/leabra) (Local, Error-driven and Associative, Biologically Realistic Algorithm), [2016 Paper](https://ccnlab.org/papers/OReillyHazyHerd16.pdf) by [Randall O'Reilly](https://ccnlab.org/people/oreilly/)
 - [CogNGen](https://arxiv.org/abs/2310.15177) (COGnitive Neural GENerative system) by Alexander Ororbia and Mary Alexandria Kelly, see also [here](https://osf.io/preprints/osf/cew42) and [here](https://arxiv.org/abs/2204.00619)
 - [KIX](https://arxiv.org/abs/2402.05346) (KIX: A Metacognitive Generalization Framework) by A. Kumar and Paul Schrater
-- [ACE](https://arxiv.org/abs/2310.06775) (Autonomous Cognitive Entity) by David Shapiro et al.
+- [ACE](https://arxiv.org/abs/2310.06775) (Autonomous Cognitive Entity) by David Shapiro et al., gh: [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework)
 
 
 ## Agent Papers
@@ -58,7 +58,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](https://arxiv.org/abs/2408.08152)
 - Survey: [Reasoning with Large Language Models, a Survey](https://arxiv.org/abs/2407.11511) (Jul 2024)
 - Survey: [From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future](https://arxiv.org/abs/2408.02479) (Aug 2024)
-- [ADAS: Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435)
+- ADAS: [Automated Design of Agentic Systems](https://arxiv.org/abs/2408.08435)
 - [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199)
 - rStar: [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
 
@@ -293,6 +293,18 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 ## Novel model architectures
 
 - [Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities](https://arxiv.org/abs/2311.05698)
+- [Memory3: Language Modeling with Explicit Memory](https://arxiv.org/abs/2407.01178)
+
+
+## Philosophy: Nature of Intelligence & Consciousness
+
+- [A High Level Theory on the Nature of Intelligence and Consciousness](https://philarchive.org/rec/GARAHL)
+
+
+## Biology / Neuroscience
+
+- [The brain simulates actions and their consequences during REM sleep](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
+- CSCG: [Clone-structured graph representations enable flexible learning and vicarious evaluation of cognitive maps](https://www.nature.com/articles/s41467-021-22559-5)
 
 
 ## Workshops
