@@ -17,7 +17,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [ART](https://en.wikipedia.org/wiki/Adaptive_resonance_theory) (Adaptive resonance theory) by Stephen Grossberg and Gail Carpenter
 - [CLARION](https://en.wikipedia.org/wiki/CLARION_(cognitive_architecture)) (Connectionist Learning with Adaptive Rule Induction ON-line) by Ron Sun
 - [EPIC](https://web.eecs.umich.edu/~kieras/epic.html) (Executive Process/Interactive Control) by David Kieras and David Meyer
-- [LIDA](https://en.wikipedia.org/wiki/LIDA_(cognitive_architecture)) (Learning Intelligent Distribution Agent) by Stan Franklin
+- [LIDA](https://en.wikipedia.org/wiki/LIDA_(cognitive_architecture)) (Learning Intelligent Distribution Agent) by Stan Franklin, [2015 Paper](https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=1023&context=ccrg_papers)
 - [Sigma](https://ict.usc.edu/pubs/The%20Sigma%20cognitive%20architecture%20and%20system.pdf) by Paul Rosenbloom
 - [OpenCog](https://opencog.org/) by Ben Goertzel
 - [NARS](https://cis.temple.edu/~pwang/NARS-Intro.html) (Non-Axiomatic Reasoning System) by Pei Wang
