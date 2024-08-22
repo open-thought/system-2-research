@@ -63,7 +63,6 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199)
 - rStar: [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
 - [IDEA: Enhancing the rule learning ability of language agent through Induction, DEuction, and Abduction](https://arxiv.org/abs/2408.10455)
-- [Hologram Reasoning for Solving Algebra Problems with Geometry Diagrams](https://arxiv.org/abs/2408.10592)
 - LAW: [Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning](https://arxiv.org/abs/2312.05230)
 
 
@@ -95,6 +94,11 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [SymbolicAI: A framework for logic-based approaches combining generative models and solvers](https://arxiv.org/abs/2402.00854)
 - [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381)
 - [A Neuro-vector-symbolic Architecture for Solving Raven's Progressive Matrices](https://arxiv.org/abs/2203.04571)
+
+
+### Math
+- AlphaGeometry: [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5)
+- [Hologram Reasoning for Solving Algebra Problems with Geometry Diagrams](https://arxiv.org/abs/2408.10592)
 
 
 ### Active Inference
