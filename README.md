@@ -100,7 +100,6 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - AlphaGeometry: [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5)
 - [Hologram Reasoning for Solving Algebra Problems with Geometry Diagrams](https://arxiv.org/abs/2408.10592)
 
-
 ### Active Inference
 
 - [From pixels to planning: scale-free active inference](https://arxiv.org/abs/2407.20292)
@@ -113,7 +112,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
    - Prompt Engineering Guide [Prompting Techniques](https://www.promptingguide.ai/techniques)
    - [Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/) by Eugene Yan
 - Chain-of-Thoughts (COT): [Paper](https://arxiv.org/abs/2201.11903)
-- Tree-of-Thoughts (ToT): [Paper](https://arxiv.org/pdf/2305.10601)
+- Tree-of-Thoughts (ToT): [Paper](https://arxiv.org/pdf/2305.10601), impl: [Strategic Debate](https://github.com/zbambergerNLP/strategic-debate-tot)
 - Graph-of-Thoughts (GoT): [Paper](https://arxiv.org/abs/2308.09687), [code](https://github.com/spcl/graph-of-thoughts)
 - Algorithm of Thoughts (AoT): [Paper](https://arxiv.org/abs/2308.10379)
 - Chain-of-Verification (CoVe/CoV): [Paper](https://arxiv.org/abs/2309.11495)
@@ -122,6 +121,12 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - Program of Thoughts (PoT): [Paper](https://arxiv.org/abs/2211.12588)
 - Buffer of Thoughts (BoT): [Paper](https://arxiv.org/abs/2406.04271)
 - Chain of Code (CoC): [Paper](https://arxiv.org/abs/2312.04474)
+- Thought of Search (ToS): [Paper](https://arxiv.org/abs/2408.11326)
+
+
+## Mechanistic Interpretability
+
+- [Geometric Space of Hierarchical Concepts in LLM](https://arxiv.org/abs/2406.01506)
 
 
 ## Blog Posts
@@ -302,6 +307,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 - [Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities](https://arxiv.org/abs/2311.05698)
 - [Memory3: Language Modeling with Explicit Memory](https://arxiv.org/abs/2407.01178)
+- TTT: [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/abs/2407.04620)
 
 
 ## Philosophy: Nature of Intelligence & Consciousness
