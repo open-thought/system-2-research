@@ -174,18 +174,21 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 ## Grokking
 
 - [Deep Networks Always Grok and Here is Why](https://imtiazhumayun.github.io/grokking/)
-- [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233), [review post](https://x.com/_clashluke/status/1820810798693818761) by [Lucas Nestler
-](https://x.com/_clashluke)
+- [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233), [review post](https://x.com/_clashluke/status/1820810798693818761) by [Lucas Nestler](https://x.com/_clashluke)
 - [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 
 
-## Open-Source Agents
+## Open-Source Agents & Agent Frameworks
 
-- [gpt-researcher](https://github.com/assafelovic/gpt-researcher)
-- [open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher), [docs](https://docs.gptr.dev/docs/gpt-researcher/introduction)
+- [open-interpreter](https://github.com/OpenInterpreter/open-interpreter), [docs](https://docs.openinterpreter.com/getting-started/introduction)
 - [AgentK](https://github.com/mikekelly/AgentK)
 - [Storm](https://github.com/stanford-oval/storm), [Paper](https://arxiv.org/abs/2402.14207)
-- [motleycrew](https://github.com/ShoggothAI/motleycrew)
+- [crewAI](https://github.com/crewAIInc/crewAI), [docs](https://docs.crewai.com/)
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT), [docs](https://docs.agpt.co/)
+- [AutoGen](https://github.com/microsoft/autogen), [docs](https://microsoft.github.io/autogen/)
+- [motleycrew](https://github.com/ShoggothAI/motleycrew), [docs](https://motleycrew.readthedocs.io/en/latest/)
+- [langflow](https://github.com/langflow-ai/langflow), [docs](https://docs.langflow.org/)
 
 
 ## Algorithms
