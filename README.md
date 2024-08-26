@@ -185,6 +185,7 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 - [open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
 - [AgentK](https://github.com/mikekelly/AgentK)
 - [Storm](https://github.com/stanford-oval/storm), [Paper](https://arxiv.org/abs/2402.14207)
+- [motleycrew](https://github.com/ShoggothAI/motleycrew)
 
 
 ## Algorithms
