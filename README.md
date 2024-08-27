@@ -6,6 +6,10 @@ The term "System 2" in the page title refers to the slower, more deliberative, a
 
 You know a great resource we should add? Please see [How to contribute](#how-to-contribute).
 
+### Weekly Meeting
+
+We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discord server](https://ykilcher.com/discord). You can also reach us there any time asynchronously in the `#open-thought` channel.
+
 
 ## Cognitive Architectures
 
@@ -223,6 +227,7 @@ Weak methods are general but don't use knowledge (heuristics) to guide the searc
 - [The Society of Mind](https://www.amazon.com/Society-Mind-Marvin-Minsky/dp/0671657135), Marvin Minsky, Simon & Schuster, 1986
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) 2nd Edition, Sutton & Barto, MIT Press, 2018
 - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning), Shiyu Zhao, open course on github + [video lectures](https://www.youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8)
+- [Natural Language Cognitive Architecture](https://github.com/daveshap/NaturalLanguageCognitiveArchitecture), David Shapiro, 2022, open source copy
 
 
 ## Biologically Inspired Approaches
