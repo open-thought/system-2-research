@@ -90,6 +90,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080)
 - Latent space world-models: [Dreamer](http://arxiv.org/pdf/1912.01603), [V2](https://arxiv.org/abs/2010.02193), [V3](https://arxiv.org/abs/2301.04104), [DayDreamer](https://arxiv.org/pdf/2206.14176)
 - [World Models](https://arxiv.org/abs/1803.10122), web: [project page](https://worldmodels.github.io/)
+- [Neural Assets: 3D-Aware Multi-Object Scene Synthesis with Image Diffusion Models](https://arxiv.org/abs/2406.09292)
 
 
 ### Neuro-Symbolic Approaches
