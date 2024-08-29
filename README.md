@@ -55,6 +55,8 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - MedAgent-Zero: [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)
 - [Self-Discover: Large Language Models Self-Compose Reasoning Structures](https://arxiv.org/abs/2402.03620)
 - [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)
+- [Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833)
+- Self-Taught Reasoner: [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 - [Large Language Models Can Self-Improve At Web Agent Tasks](https://arxiv.org/abs/2405.20309)
 - [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764)
