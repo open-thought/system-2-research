@@ -200,7 +200,7 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 - [Storm](https://github.com/stanford-oval/storm), [Paper](https://arxiv.org/abs/2402.14207)
 - [crewAI](https://github.com/crewAIInc/crewAI), [docs](https://docs.crewai.com/)
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT), [docs](https://docs.agpt.co/)
-- [AutoGen](https://github.com/microsoft/autogen), [docs](https://microsoft.github.io/autogen/)
+- [AutoGen](https://github.com/microsoft/autogen), [docs](https://microsoft.github.io/autogen/), [AutoGen Studio Paper](https://arxiv.org/abs/2408.15247)
 - [motleycrew](https://github.com/ShoggothAI/motleycrew), [docs](https://motleycrew.readthedocs.io/en/latest/)
 - [langflow](https://github.com/langflow-ai/langflow), [docs](https://docs.langflow.org/)
 
