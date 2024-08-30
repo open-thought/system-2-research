@@ -239,6 +239,7 @@ Weak methods are general but don't use knowledge (heuristics) to guide the searc
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) 2nd Edition, Sutton & Barto, MIT Press, 2018
 - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning), Shiyu Zhao, open course on github + [video lectures](https://www.youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8)
 - [Natural Language Cognitive Architecture](https://github.com/daveshap/NaturalLanguageCognitiveArchitecture), David Shapiro, 2022, open source copy
+- [An Introduction to Universal Artificial Intelligence](https://a.co/d/b61JiOh), Marcus Hutter, David Quarel, Elliot Catt, CRC Press, 2024 - AIXI, [Slides](http://hutter1.net/ai/suaibook.pdf), [Video](https://cartesiancafe.podbean.com/e/marcus-hutter-universal-artificial-intelligence-and-solomonoff-induction/)
 
 
 ## Biologically Inspired Approaches
@@ -342,7 +343,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 - [The brain simulates actions and their consequences during REM sleep](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
 - CSCG: [Clone-structured graph representations enable flexible learning and vicarious evaluation of cognitive maps](https://www.nature.com/articles/s41467-021-22559-5)
-
+- [System-1 and System-2 realized within the Common Model of Cognition](https://www.researchgate.net/publication/365345252_System-1_and_System-2_realized_within_the_Common_Model_of_Cognition) (2022)
 
 ## Workshops
 
