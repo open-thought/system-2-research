@@ -329,7 +329,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 - [Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities](https://arxiv.org/abs/2311.05698)
 - [Memory3: Language Modeling with Explicit Memory](https://arxiv.org/abs/2407.01178)
-- TTT: [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/abs/2407.04620)
+- TTT: [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/abs/2407.04620), [Video](https://www.youtube.com/watch?v=I9Ghw2Z7Gqk)
 - [TransformerFAM: Feedback attention is working memory](https://arxiv.org/pdf/2404.09173)
 
 
