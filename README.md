@@ -77,6 +77,7 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - [Improve Mathematical Reasoning in Language Models by Automated Process Supervision](https://arxiv.org/abs/2406.06592)
 - [LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenarios](https://arxiv.org/abs/2310.08348), code: [opendilab/LightZero](https://github.com/opendilab/LightZero)
 - MuZero: [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265), open-source impl: [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general)
+- [Self-Refine Instruction-Tuning for Aligning Reasoning in Language Models](https://arxiv.org/abs/2405.00402)
 
 
 ### Minecraft Agents
