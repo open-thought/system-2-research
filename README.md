@@ -310,6 +310,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [MIT AGI: Cognitive Architecture (Nate Derbinsky)](https://www.youtube.com/watch?v=bfO4EkoGh40)
 - Channel: [Thinking About Thinking](https://www.youtube.com/@ThoughtChannel/videos) (Mathematics of Neuroscience and AI)
 - [Invariance and equivariance in brains and machines](https://youtu.be/xnhhp916JNU?si=VpiDQDbFafyNAlMW)
+- [code_your_own_AI: The CORE IDEA of AI Agents Explained](https://youtu.be/xdAKa8jFx3g)
 
 
 ### Joscha Bach
