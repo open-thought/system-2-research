@@ -302,6 +302,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 ## Related Projects
 
 - Nous Research [Open Reasoning Tasks](https://reasoning.nousresearch.com/), a list of reasoning tasks, gh: [NousResearch/Open-Reasoning-Tasks](https://github.com/NousResearch/Open-Reasoning-Tasks)
+- [ARC-AGI Resources](https://docs.google.com/spreadsheets/d/1fR4cgjY1kNKN_dxiidBQbyT6Gv7_Ko7daKOjlYojwTY/edit?pli=1&gid=756763742#gid=756763742) Google table paper list by [ARC price](https://arcprize.org/)
 
 
 ## Youtube Content
