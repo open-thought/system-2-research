@@ -123,6 +123,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 ## Prompting Techniques
 
 - Surveys:
+   - (Jul 2024) [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608)
    - (Feb 2024) [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/abs/2402.07927)
    - Prompt Engineering Guide [Prompting Techniques](https://www.promptingguide.ai/techniques)
    - [Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/) by Eugene Yan
