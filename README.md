@@ -64,6 +64,7 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - [A Prefrontal Cortex-inspired Architecture for Planning in Large Language Models](https://arxiv.org/abs/2310.00194)
 - [CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization](https://arxiv.org/abs/2310.10134)
 - [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](https://arxiv.org/abs/2408.08152)
+- GPT-Swarm [Language Agents as Optimizable Graphs](https://arxiv.org/abs/2402.16823)
 - Survey: [Reasoning with Large Language Models, a Survey](https://arxiv.org/abs/2407.11511) (Jul 2024)
 - Survey: [From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future](https://arxiv.org/abs/2408.02479) (Aug 2024)
 - ADAS: [Automated Design of Agentic Systems](https://arxiv.org/abs/2408.08435)
@@ -153,8 +154,9 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - Schmidhuber: [Artificial Curiosity & Creativity](https://people.idsia.ch/~juergen/artificial-curiosity-since-1990.html)
 - synthesis.ai: [Do Androids Dream? World Models in Modern AI](https://synthesis.ai/2024/07/02/do-androids-dream-world-models-in-modern-ai/)
 - [Our Transformers Code Agent beats the GAIA benchmark!](https://huggingface.co/blog/beating-gaia)
-- https://lilianweng.github.io/posts/2023-06-23-agent/
 - Lil'Log [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) (Jun 2023 )
+- BAIR Blog: [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
+- Microsoft Research [Tracing the path to self-adapting AI agents](https://www.microsoft.com/en-us/research/blog/tracing-the-path-to-self-adapting-ai-agents/)
 
 
 ## Graph Neural Networks
@@ -206,9 +208,9 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 - [crewAI](https://github.com/crewAIInc/crewAI), [docs](https://docs.crewai.com/)
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT), [docs](https://docs.agpt.co/)
 - [AutoGen](https://github.com/microsoft/autogen), [docs](https://microsoft.github.io/autogen/), [AutoGen Studio Paper](https://arxiv.org/abs/2408.15247)
+- [Trace](https://github.com/microsoft/Trace), [docs](https://microsoft.github.io/Trace/intro.html), [Paper](https://arxiv.org/abs/2406.16218)
 - [motleycrew](https://github.com/ShoggothAI/motleycrew), [docs](https://motleycrew.readthedocs.io/en/latest/)
 - [langflow](https://github.com/langflow-ai/langflow), [docs](https://docs.langflow.org/)
-
 
 ## Algorithms
 
@@ -272,7 +274,6 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [meta-llama/llama-agentic-system](https://github.com/meta-llama/llama-agentic-system)
 - [stanfordnlp/dspy]( https://github.com/stanfordnlp/dspy), DSPy awesome list: [ganarajpr/awesome-dspy](https://github.com/ganarajpr/awesome-dspy)
 - [InternLM/lagent](https://github.com/InternLM/lagent) - lightweight framework for building LLM-based agents
-
 
 ## Commercial Offerings
 
