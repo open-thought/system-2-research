@@ -45,6 +45,7 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/abs/2405.15793)
 - [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
+- [Trace is the New AutoDiff -- Unlocking Efficient Optimization of Computational Workflows](https://arxiv.org/abs/2406.16218)
 - [Agentless: Demystifying LLM-based Software Engineering Agents](https://arxiv.org/abs/2407.01489)
 - [Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)
 - [AI Agents That Matter](https://arxiv.org/pdf/2407.01502)
