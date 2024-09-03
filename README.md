@@ -203,6 +203,7 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 - [open-interpreter](https://github.com/OpenInterpreter/open-interpreter), [docs](https://docs.openinterpreter.com/getting-started/introduction)
 - [ADAS](https://github.com/ShengranHu/ADAS) (Automated Design of Agentic Systems)
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist.git)
+- [Ollama_Agents](https://github.com/MikeyBeez/Ollama_Agents)
 - [AgentK](https://github.com/mikekelly/AgentK)
 - [Storm](https://github.com/stanford-oval/storm), [Paper](https://arxiv.org/abs/2402.14207)
 - [crewAI](https://github.com/crewAIInc/crewAI), [docs](https://docs.crewai.com/)
