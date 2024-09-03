@@ -273,7 +273,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) (formerly OpenDevin)
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent), [documentation](https://princeton-nlp.github.io/SWE-agent/)
 - [meta-llama/llama-agentic-system](https://github.com/meta-llama/llama-agentic-system)
-- [stanfordnlp/dspy]( https://github.com/stanfordnlp/dspy), DSPy awesome list: [ganarajpr/awesome-dspy](https://github.com/ganarajpr/awesome-dspy)
+- [stanfordnlp/dspy]( https://github.com/stanfordnlp/dspy), DSPy awesome list: [ganarajpr/awesome-dspy](https://github.com/ganarajpr/awesome-dspy), [paper](https://arxiv.org/abs/2310.03714)
 - [InternLM/lagent](https://github.com/InternLM/lagent) - lightweight framework for building LLM-based agents
 
 ## Commercial Offerings
