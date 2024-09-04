@@ -140,6 +140,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - Buffer of Thoughts (BoT): [Paper](https://arxiv.org/abs/2406.04271)
 - Chain of Code (CoC): [Paper](https://arxiv.org/abs/2312.04474)
 - Thought of Search (ToS): [Paper](https://arxiv.org/abs/2408.11326)
+- Re-Reading the question as input (RE2): [Paper](https://arxiv.org/pdf/2309.06275)
 
 
 ## Mechanistic Interpretability
@@ -157,6 +158,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787)
 - Lil'Log [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) (Jun 2023 )
 - BAIR Blog: [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 - Microsoft Research [Tracing the path to self-adapting AI agents](https://www.microsoft.com/en-us/research/blog/tracing-the-path-to-self-adapting-ai-agents/)
+- [LLMs develop their own understanding of reality as their language abilities improve](https://news.mit.edu/2024/llms-develop-own-understanding-of-reality-as-language-abilities-improve-0814), [Emergent Representations Paper](https://arxiv.org/abs/2305.11169)
 
 
 ## Graph Neural Networks
@@ -263,6 +265,11 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [Energy Transformer](https://proceedings.neurips.cc/paper_files/paper/2023/hash/57a9b97477b67936298489e3c1417b0a-Abstract-Conference.html)
 - [Memorization and consolidation in associative memory networks](https://openreview.net/forum?id=hXef89mdlH)
 - [Simplicial Hopfield networks](https://openreview.net/forum?id=_QLsH8gatwx)
+
+
+## Continual Learning
+
+- [MagMax](https://arxiv.org/abs/2407.06322)
 
 
 ## Software Tools & Libraries
