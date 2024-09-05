@@ -151,7 +151,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 ## Blog Posts
 
 - DeepMind [AlphaProof and AlphaGeometry 2](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
-- [Getting 50% (SoTA) on ARC-AGI with GPT-4o](https://www.lesswrong.com/posts/Rdwui3wHxCeKb7feK/getting-50-sota-on-arc-agi-with-gpt-4o)
+- [Getting 50% (SoTA) on ARC-AGI with GPT-4o](https://www.lesswrong.com/posts/Rdwui3wHxCeKb7feK/getting-50-sota-on-arc-agi-with-gpt-4o), code: [rgreenblatt/arc_draw_more_samples_pub](https://github.com/rgreenblatt/arc_draw_more_samples_pub)
 - Schmidhuber: [Artificial Curiosity & Creativity](https://people.idsia.ch/~juergen/artificial-curiosity-since-1990.html)
 - synthesis.ai: [Do Androids Dream? World Models in Modern AI](https://synthesis.ai/2024/07/02/do-androids-dream-world-models-in-modern-ai/)
 - [Our Transformers Code Agent beats the GAIA benchmark!](https://huggingface.co/blog/beating-gaia)
