@@ -292,6 +292,8 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
   - [copilot-workspace](https://githubnext.com/projects/copilot-workspace)
   - [textgrad](https://textgrad.com/)
   - [Cosine Genie](https://cosine.sh/genie)
+- Synthetic data generation
+  - [glaive.ai](https://glaive.ai/) was used to generate CoT/Reflection data for [mattshumer/Reflection-Llama-3.1-70B](https://huggingface.co/mattshumer/Reflection-Llama-3.1-70B)
 
 
 # Competitions & Benchmarks
