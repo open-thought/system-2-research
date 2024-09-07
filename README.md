@@ -70,7 +70,7 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - ADAS: [Automated Design of Agentic Systems](https://arxiv.org/abs/2408.08435)
 - [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199)
 - rStar: [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
-- [IDEA: Enhancing the rule learning ability of language agent through Induction, DEuction, and Abduction](https://arxiv.org/abs/2408.10455)
+- [IDEA:Enhancing the Rule Learning Ability of Language Agents through Induction, Deduction, and Abduction](https://arxiv.org/abs/2408.10455)
 - LAW: [Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning](https://arxiv.org/abs/2312.05230)
 - GenRM: [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://arxiv.org/abs/2408.15240)
 - Perspective: [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/abs/2407.08642)
