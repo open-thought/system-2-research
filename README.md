@@ -160,6 +160,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 - BAIR Blog: [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 - Microsoft Research [Tracing the path to self-adapting AI agents](https://www.microsoft.com/en-us/research/blog/tracing-the-path-to-self-adapting-ai-agents/)
 - [LLMs develop their own understanding of reality as their language abilities improve](https://news.mit.edu/2024/llms-develop-own-understanding-of-reality-as-language-abilities-improve-0814), [Emergent Representations Paper](https://arxiv.org/abs/2305.11169)
+- LessWrong post: [LLM Generality is a Timeline Crux](https://www.lesswrong.com/posts/k38sJNLk7YbJA72ST/llm-generality-is-a-timeline-crux)
 
 
 ## Graph Neural Networks
