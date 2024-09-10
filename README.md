@@ -90,6 +90,7 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 
 #### Massive Sampling / Generate-and-Test
 
+- Inference survey: [From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models](https://arxiv.org/abs/2406.16838)
 - [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
 - [Large Language Monkeys: Scaling Inference Compute
 with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github.com/ScalingIntelligence/large_language_monkeys), [blog](https://scalingintelligence.stanford.edu/blogs/monkeys/)
