@@ -143,6 +143,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 - Chain of Code (CoC): [Paper](https://arxiv.org/abs/2312.04474)
 - Thought of Search (ToS): [Paper](https://arxiv.org/abs/2408.11326)
 - Re-Reading the question as input (RE2): [Paper](https://arxiv.org/pdf/2309.06275)
+- Self-Harmonized Chain of Thought (ECHO): [Paper](https://arxiv.org/abs/2409.04057), [code](https://github.com/Xalp/ECHO)
 
 
 ## Mechanistic Interpretability
