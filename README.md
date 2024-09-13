@@ -73,6 +73,8 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
 
+- [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](https://arxiv.org/abs/2409.08239)
+- [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
 - [Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning](https://arxiv.org/abs/2406.14283)
 - [Self-Discover: Large Language Models Self-Compose Reasoning Structures](https://arxiv.org/abs/2402.03620)
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
