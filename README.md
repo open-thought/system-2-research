@@ -77,9 +77,18 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
 - [Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning](https://arxiv.org/abs/2406.14283)
 - [Self-Discover: Large Language Models Self-Compose Reasoning Structures](https://arxiv.org/abs/2402.03620)
+- TRICE: [Training Chain-of-Thought via Latent-Variable Inference](https://arxiv.org/abs/2312.02179)
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 - Self-Taught Reasoner: [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)
 - Self-Notes: [Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833)
+
+### RL
+
+- [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808)
+- [ReFT: Reasoning with Reinforced Fine-Tuning](https://arxiv.org/abs/2401.08967)
+- [ARES: Alternating Reinforcement Learning and Supervised Fine-Tuning
+for Enhanced Multi-Modal Chain-of-Thought Reasoning
+Through Diverse AI Feedback](https://arxiv.org/pdf/2407.00087)
 
 ### MCTS
 - [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199)
@@ -151,6 +160,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 - Thought of Search (ToS): [Paper](https://arxiv.org/abs/2408.11326)
 - Re-Reading the question as input (RE2): [Paper](https://arxiv.org/pdf/2309.06275)
 - Self-Harmonized Chain of Thought (ECHO): [Paper](https://arxiv.org/abs/2409.04057), [code](https://github.com/Xalp/ECHO)
+- Divergent CoT (DCoT), [Paper](https://arxiv.org/abs/2407.03181)
 
 
 ## Mechanistic Interpretability
