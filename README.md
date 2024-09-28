@@ -193,6 +193,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 ](https://twitter.com/yoheinakajima))
 - [Don't Sleep on Single-agent Systems](https://www.all-hands.dev/blog/dont-sleep-on-single-agent-systems)
 - Video: [Improving LLM Reasoning using self-generated data: RL and Verifiers](https://youtu.be/jSvXxkwrKlU?si=Ae9WMruDlg37yneP), [Slides](https://drive.google.com/file/d/1komQ7s9kPPvDx_8AxTh9A6tlfJA0j6dR/view) by [Rishabh Agarwal](https://twitter.com/agarwl_) (DeepMind)
+- Slides: [Reasoning with inference-time compute](https://wellecks.com/data/welleck2024__inference_compute.pdf) by [Sean Welleck](https://x.com/wellecks), [tweet](https://x.com/wellecks/status/1839011524670796224)
 
 
 ## Graph Neural Networks
