@@ -70,6 +70,7 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - Perspective: [Towards Building Specialized Generalist AI with System 1 and System 2 Fusion](https://arxiv.org/abs/2407.08642)
 - CodeAct: [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.01030)
 - PLANSEARCH: [Planning In Natural Language Improves LLM Search For Code Generation](https://arxiv.org/abs/2409.03733)
+- [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373)
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
 
@@ -161,6 +162,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 - Re-Reading the question as input (RE2): [Paper](https://arxiv.org/pdf/2309.06275)
 - Self-Harmonized Chain of Thought (ECHO): [Paper](https://arxiv.org/abs/2409.04057), [code](https://github.com/Xalp/ECHO)
 - Divergent CoT (DCoT), [Paper](https://arxiv.org/abs/2407.03181)
+- Iteration of Thought (IoT), [Paper](https://arxiv.org/abs/2409.12618)
 - Logic-of-Thought (LoT) [Paper](https://arxiv.org/abs/2409.17539)
 
 ### Negative results
@@ -243,6 +245,7 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 - [motleycrew](https://github.com/ShoggothAI/motleycrew), [docs](https://motleycrew.readthedocs.io/en/latest/)
 - [langflow](https://github.com/langflow-ai/langflow), [docs](https://docs.langflow.org/)
 - [show-me](https://github.com/marlaman/show-me): A Visual and Transparent Reasoning Agent
+- [priompt](https://github.com/anysphere/priompt): A JSX-based prompting library, [Blog](https://arvid.xyz/posts/prompt-design/)
 
 ## Algorithms
 
@@ -332,6 +335,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [StreamBench: Towards Benchmarking Continuous Improvement of Language Agents](https://arxiv.org/pdf/2406.08747), gh: [stream-bench/stream-bench](https://github.com/stream-bench/stream-bench)
 - [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents](https://arxiv.org/abs/2408.06327)
 - [ZebraLogic](https://huggingface.co/blog/yuchenlin/zebra-logic), [Leaderboard](https://huggingface.co/spaces/allenai/ZebraLogic)
+- [Omni-MATH](https://omni-math.github.io/), gh: [KbsdJames/Omni-MATH](https://github.com/KbsdJames/Omni-MATH)
 
 ### Code
 - [SWE-bench](https://www.swebench.com/index.html), [SWE-bench Lite](https://www.swebench.com/lite.html)
