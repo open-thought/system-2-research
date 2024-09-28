@@ -148,6 +148,8 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
    - (Feb 2024) [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/abs/2402.07927)
    - Prompt Engineering Guide [Prompting Techniques](https://www.promptingguide.ai/techniques)
    - [Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/) by Eugene Yan
+- Tools:
+   - [priompt](https://github.com/anysphere/priompt): A JSX-based prompting library, [Blog](https://arvid.xyz/posts/prompt-design/)
 - Chain-of-Thoughts (COT): [Paper](https://arxiv.org/abs/2201.11903)
 - Tree-of-Thoughts (ToT): [Paper](https://arxiv.org/pdf/2305.10601), impl: [Strategic Debate](https://github.com/zbambergerNLP/strategic-debate-tot)
 - Graph-of-Thoughts (GoT): [Paper](https://arxiv.org/abs/2308.09687), [code](https://github.com/spcl/graph-of-thoughts)
@@ -174,7 +176,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 - [Geometric Space of Hierarchical Concepts in LLM](https://arxiv.org/abs/2406.01506)
 
 
-## Blog Posts
+## Blog Posts / Presentations
 
 - DeepMind [AlphaProof and AlphaGeometry 2](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
 - [Getting 50% (SoTA) on ARC-AGI with GPT-4o](https://www.lesswrong.com/posts/Rdwui3wHxCeKb7feK/getting-50-sota-on-arc-agi-with-gpt-4o), code: [rgreenblatt/arc_draw_more_samples_pub](https://github.com/rgreenblatt/arc_draw_more_samples_pub)
@@ -189,6 +191,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 - [Three levels of self-building autonomous agents](https://twitter.com/yoheinakajima/status/1839398354364838366) (Tweet thread by [Yohei
 ](https://twitter.com/yoheinakajima))
 - [Don't Sleep on Single-agent Systems](https://www.all-hands.dev/blog/dont-sleep-on-single-agent-systems)
+- Video: [Improving LLM Reasoning using self-generated data: RL and Verifiers](https://youtu.be/jSvXxkwrKlU?si=Ae9WMruDlg37yneP), [Slides](https://drive.google.com/file/d/1komQ7s9kPPvDx_8AxTh9A6tlfJA0j6dR/view) by [Rishabh Agarwal](https://twitter.com/agarwl_) (DeepMind)
 
 
 ## Graph Neural Networks
@@ -245,7 +248,7 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 - [motleycrew](https://github.com/ShoggothAI/motleycrew), [docs](https://motleycrew.readthedocs.io/en/latest/)
 - [langflow](https://github.com/langflow-ai/langflow), [docs](https://docs.langflow.org/)
 - [show-me](https://github.com/marlaman/show-me): A Visual and Transparent Reasoning Agent
-- [priompt](https://github.com/anysphere/priompt): A JSX-based prompting library, [Blog](https://arvid.xyz/posts/prompt-design/)
+
 
 ## Algorithms
 
