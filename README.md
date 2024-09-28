@@ -161,6 +161,10 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 - Re-Reading the question as input (RE2): [Paper](https://arxiv.org/pdf/2309.06275)
 - Self-Harmonized Chain of Thought (ECHO): [Paper](https://arxiv.org/abs/2409.04057), [code](https://github.com/Xalp/ECHO)
 - Divergent CoT (DCoT), [Paper](https://arxiv.org/abs/2407.03181)
+- Logic-of-Thought (LoT) [Paper](https://arxiv.org/abs/2409.17539)
+
+### Negative results
+- [Chain of Thoughtlessness? An Analysis of CoT in Planning](https://arxiv.org/abs/2405.04776)
 
 
 ## Mechanistic Interpretability
@@ -180,6 +184,9 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 - Microsoft Research [Tracing the path to self-adapting AI agents](https://www.microsoft.com/en-us/research/blog/tracing-the-path-to-self-adapting-ai-agents/)
 - [LLMs develop their own understanding of reality as their language abilities improve](https://news.mit.edu/2024/llms-develop-own-understanding-of-reality-as-language-abilities-improve-0814), [Emergent Representations Paper](https://arxiv.org/abs/2305.11169)
 - LessWrong post: [LLM Generality is a Timeline Crux](https://www.lesswrong.com/posts/k38sJNLk7YbJA72ST/llm-generality-is-a-timeline-crux)
+- [Three levels of self-building autonomous agents](https://twitter.com/yoheinakajima/status/1839398354364838366) (Tweet thread by [Yohei
+](https://twitter.com/yoheinakajima))
+- [Don't Sleep on Single-agent Systems](https://www.all-hands.dev/blog/dont-sleep-on-single-agent-systems)
 
 
 ## Graph Neural Networks
@@ -235,6 +242,7 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 - [Trace](https://github.com/microsoft/Trace), [docs](https://microsoft.github.io/Trace/intro.html), [Paper](https://arxiv.org/abs/2406.16218)
 - [motleycrew](https://github.com/ShoggothAI/motleycrew), [docs](https://motleycrew.readthedocs.io/en/latest/)
 - [langflow](https://github.com/langflow-ai/langflow), [docs](https://docs.langflow.org/)
+- [show-me](https://github.com/marlaman/show-me): A Visual and Transparent Reasoning Agent
 
 ## Algorithms
 
@@ -329,6 +337,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [SWE-bench](https://www.swebench.com/index.html), [SWE-bench Lite](https://www.swebench.com/lite.html)
 - [BigCodeBench: The Next Generation of HumanEval](https://huggingface.co/blog/leaderboard-bigcodebench), [Leaderboard](https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard)
 - [SciCode: A Research Coding Benchmark Curated by Scientists](https://arxiv.org/abs/2407.13168), web: https://scicode-bench.github.io/
+- [commit-0](https://commit-0.github.io/) The challenge is to rebuild Python core libraries and pass their unit tests, [Leaderboard](https://commit-0.github.io/analysis/)
 
 
 ## Related Projects
