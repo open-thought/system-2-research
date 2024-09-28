@@ -82,6 +82,7 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 - Self-Taught Reasoner: [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)
 - Self-Notes: [Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833)
+- [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/abs/2405.14838)
 
 ### RL
 
@@ -339,6 +340,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents](https://arxiv.org/abs/2408.06327)
 - [ZebraLogic](https://huggingface.co/blog/yuchenlin/zebra-logic), [Leaderboard](https://huggingface.co/spaces/allenai/ZebraLogic)
 - [Omni-MATH](https://omni-math.github.io/), gh: [KbsdJames/Omni-MATH](https://github.com/KbsdJames/Omni-MATH)
+- [BatsResearch/planetarium](https://github.com/BatsResearch/planetarium) - Dataset and benchmark for assessing LLMs in translating natural language descriptions of planning problems into PDDL
 
 ### Code
 - [SWE-bench](https://www.swebench.com/index.html), [SWE-bench Lite](https://www.swebench.com/lite.html)
