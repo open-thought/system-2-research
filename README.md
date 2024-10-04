@@ -74,6 +74,9 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
 
+- [Solving math word problems with process- and outcome-based feedback](https://arxiv.org/abs/2211.14275)
+- [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
+- [RATIONALYST: Pre-training Process-Supervision for Improving Reasoning](https://arxiv.org/abs/2410.01044)
 - [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](https://arxiv.org/abs/2409.08239)
 - [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
 - [Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning](https://arxiv.org/abs/2406.14283)
