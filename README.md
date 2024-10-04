@@ -73,10 +73,6 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373)
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
-
-- [Solving math word problems with process- and outcome-based feedback](https://arxiv.org/abs/2211.14275)
-- [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
-- [RATIONALYST: Pre-training Process-Supervision for Improving Reasoning](https://arxiv.org/abs/2410.01044)
 - [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](https://arxiv.org/abs/2409.08239)
 - [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
 - [Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning](https://arxiv.org/abs/2406.14283)
@@ -87,8 +83,12 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - Self-Notes: [Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833)
 - [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/abs/2405.14838)
 
-### RL
+### Reward Models (ORM/PRM)
+- [Solving math word problems with process- and outcome-based feedback](https://arxiv.org/abs/2211.14275)
+- [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
+- [RATIONALYST: Pre-training Process-Supervision for Improving Reasoning](https://arxiv.org/abs/2410.01044)
 
+### RL
 - [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808)
 - [ReFT: Reasoning with Reinforced Fine-Tuning](https://arxiv.org/abs/2401.08967)
 - [ARES: Alternating Reinforcement Learning and Supervised Fine-Tuning
