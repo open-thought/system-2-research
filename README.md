@@ -71,6 +71,7 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - CodeAct: [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.01030)
 - PLANSEARCH: [Planning In Natural Language Improves LLM Search For Code Generation](https://arxiv.org/abs/2409.03733)
 - [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373)
+- [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
 - [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
@@ -88,6 +89,7 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - OpenR: [Technical Report](https://github.com/openreasoner/openr/blob/main/reports/OpenR-Wang.pdf), [Project Page](https://openreasoner.github.io/), code: [openreasoner/openr](https://github.com/openreasoner/openr)
 
 ### Reward Models (ORM/PRM)
+- [Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning](https://arxiv.org/abs/2410.08146)
 - [Solving math word problems with process- and outcome-based feedback](https://arxiv.org/abs/2211.14275)
 - [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
 - [RATIONALYST: Pre-training Process-Supervision for Improving Reasoning](https://arxiv.org/abs/2410.01044)
