@@ -89,6 +89,9 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 ### Direct o1 Replication Efforts
 - OpenR: [Technical Report](https://github.com/openreasoner/openr/blob/main/reports/OpenR-Wang.pdf), [Project Page](https://openreasoner.github.io/), code: [openreasoner/openr](https://github.com/openreasoner/openr)
 - [GAIR-NLP/O1-Journey](https://github.com/GAIR-NLP/O1-Journey), [Strategic Progress Report - Part 1](https://github.com/GAIR-NLP/O1-Journey/blob/main/resource/report.pdf)
+- [OpenSource-O1/Open-O1](https://github.com/OpenSource-O1/Open-O1)
+- [bklieger-groq/g1](https://github.com/bklieger-groq/g1): Using Llama-3.1 70b on Groq to create o1-like reasoning chains
+- [ack-sec/toyberry](https://github.com/ack-sec/toyberry): Atlas Reasoning System (Toyberry)
 
 ### Reward Models (ORM/PRM)
 - [Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning](https://arxiv.org/abs/2410.08146)
