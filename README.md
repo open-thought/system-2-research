@@ -73,6 +73,7 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373)
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
+- [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
 - [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](https://arxiv.org/abs/2409.08239)
 - [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
 - [Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning](https://arxiv.org/abs/2406.14283)
@@ -82,6 +83,9 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - Self-Taught Reasoner: [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)
 - Self-Notes: [Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833)
 - [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/abs/2405.14838)
+
+### Direct o1 Replication Efforts
+- OpenR: [Technical Report](https://github.com/openreasoner/openr/blob/main/reports/OpenR-Wang.pdf), [Project Page](https://openreasoner.github.io/), code: [openreasoner/openr](https://github.com/openreasoner/openr)
 
 ### Reward Models (ORM/PRM)
 - [Solving math word problems with process- and outcome-based feedback](https://arxiv.org/abs/2211.14275)
@@ -360,6 +364,8 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 ## Youtube Content
 
+- François Chollet: [It's Not About Scale, It's About Abstraction](https://youtu.be/s7_NlkBwdj8?feature=shared)
+- [Evaluating, Understanding and Improving Approaches for Machine Reasoning](https://www.youtube.com/watch?v=sxbfvVcbIi8)
 - Channel: [David Shapiro](https://www.youtube.com/@DaveShap)
 - [Artem Kirsanov: Engrams, Building Blocks of Memory in the Brain](https://www.youtube.com/watch?v=X5trRLX7PQY)
 - Channel: [Edan Meyer on AI, ML & RL](https://www.youtube.com/@EdanMeyer), [Discrete vs. Continuous RL](https://www.youtube.com/watch?v=s8RqGlU5HEs) + [Paper](https://arxiv.org/abs/2312.01203)
