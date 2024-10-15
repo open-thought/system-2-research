@@ -88,6 +88,7 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 
 ### Direct o1 Replication Efforts
 - OpenR: [Technical Report](https://github.com/openreasoner/openr/blob/main/reports/OpenR-Wang.pdf), [Project Page](https://openreasoner.github.io/), code: [openreasoner/openr](https://github.com/openreasoner/openr)
+- [GAIR-NLP/O1-Journey](https://github.com/GAIR-NLP/O1-Journey), [Strategic Progress Report - Part 1](https://github.com/GAIR-NLP/O1-Journey/blob/main/resource/report.pdf)
 
 ### Reward Models (ORM/PRM)
 - [Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning](https://arxiv.org/abs/2410.08146)
