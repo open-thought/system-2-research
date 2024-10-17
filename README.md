@@ -69,7 +69,6 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373)
 - [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
 - [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164)
-- DevAI: [Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934)
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
 - [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
@@ -341,6 +340,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 # Competitions & Benchmarks
 
+- DevAI: [Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934)
 - [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901), web: [project page](https://appworld.dev/), gh: [stonybrooknlp/appworld](https://github.com/stonybrooknlp/appworld/), [Leaderboard](https://appworld.dev/leaderboard)
 - [CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents](https://arxiv.org/abs/2407.01511), gh: [camel-ai/crab](https://github.com/camel-ai/crab)
 - [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://arxiv.org/abs/2307.13854), web: [project page](https://webarena.dev/), [Leaderboard](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?usp=sharing)
