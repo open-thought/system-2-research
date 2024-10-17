@@ -6,10 +6,6 @@ The term "System 2" in the page title refers to the slower, more deliberative, a
 
 You know a great resource we should add? Please see [How to contribute](#how-to-contribute).
 
-### Weekly Meeting
-
-We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discord server](https://ykilcher.com/discord). You can also reach us there any time asynchronously in the `#open-thought` channel.
-
 
 ## Cognitive Architectures
 
@@ -73,6 +69,7 @@ We meet every Tuesday at 6 PM UTC in `#voice-room-1` of [Yannic Kilcher's discor
 - [LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench](https://arxiv.org/abs/2409.13373)
 - [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
 - [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164)
+- DevAI: [Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934)
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
 - [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
