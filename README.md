@@ -88,6 +88,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [OpenSource-O1/Open-O1](https://github.com/OpenSource-O1/Open-O1)
 - [bklieger-groq/g1](https://github.com/bklieger-groq/g1): Using Llama-3.1 70b on Groq to create o1-like reasoning chains
 - [ack-sec/toyberry](https://github.com/ack-sec/toyberry): Atlas Reasoning System (Toyberry)
+- Blog: [Reverse engineering OpenAI’s o1 ](https://www.interconnects.ai/p/reverse-engineering-openai-o1) by [Nathan Lambert](https://twitter.com/natolambert)
 
 ### Reward Models (ORM/PRM)
 - [Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning](https://arxiv.org/abs/2410.08146)
@@ -363,6 +364,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 ## Related Projects
 
 - [Awesome LLM Strawberry (OpenAI o1)](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
+- [awesome-o1](https://github.com/srush/awesome-o1) literature list by [Sasha Rush](https://twitter.com/srush_nlp)
 - Nous Research [Open Reasoning Tasks](https://reasoning.nousresearch.com/), a list of reasoning tasks, gh: [NousResearch/Open-Reasoning-Tasks](https://github.com/NousResearch/Open-Reasoning-Tasks)
 - [ARC-AGI Resources](https://docs.google.com/spreadsheets/d/1fR4cgjY1kNKN_dxiidBQbyT6Gv7_Ko7daKOjlYojwTY/edit?pli=1&gid=756763742#gid=756763742) Google table paper list by [ARC price](https://arcprize.org/)
 
