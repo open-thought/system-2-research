@@ -84,7 +84,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ### Direct o1 Replication Efforts
 - OpenR: [Technical Report](https://github.com/openreasoner/openr/blob/main/reports/OpenR-Wang.pdf), [Project Page](https://openreasoner.github.io/), code: [openreasoner/openr](https://github.com/openreasoner/openr)
-- [GAIR-NLP/O1-Journey](https://github.com/GAIR-NLP/O1-Journey), [Strategic Progress Report - Part 1](https://github.com/GAIR-NLP/O1-Journey/blob/main/resource/report.pdf)
+- [GAIR-NLP/O1-Journey](https://github.com/GAIR-NLP/O1-Journey), [O1 Replication Journey: Strategic Progress Report - Part 1](https://arxiv.org/abs/2410.18982)
 - [OpenSource-O1/Open-O1](https://github.com/OpenSource-O1/Open-O1)
 - [bklieger-groq/g1](https://github.com/bklieger-groq/g1): Using Llama-3.1 70b on Groq to create o1-like reasoning chains
 - [ack-sec/toyberry](https://github.com/ack-sec/toyberry): Atlas Reasoning System (Toyberry)
