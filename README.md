@@ -35,7 +35,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ## Agent Papers
 
 ### LLM Based
-
+- [LLaVA-o1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/html/2411.10440v1) (Nov 2024)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/abs/2405.15793)
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292), gh: [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
@@ -83,6 +83,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/abs/2405.14838)
 
 ### Direct o1 Replication Efforts
+- DeepSeek R-1: (https://chat.deepseek.com/)
 - OpenR: [Technical Report](https://github.com/openreasoner/openr/blob/main/reports/OpenR-Wang.pdf), [Project Page](https://openreasoner.github.io/), code: [openreasoner/openr](https://github.com/openreasoner/openr)
 - [GAIR-NLP/O1-Journey](https://github.com/GAIR-NLP/O1-Journey), [O1 Replication Journey: Strategic Progress Report - Part 1](https://arxiv.org/abs/2410.18982)
 - [OpenSource-O1/Open-O1](https://github.com/OpenSource-O1/Open-O1)
