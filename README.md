@@ -81,6 +81,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - Self-Taught Reasoner: [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)
 - Self-Notes: [Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833)
 - [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/abs/2405.14838)
+- LaTRO: [Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282), [code](https://github.com/SalesforceAIResearch/LaTRO)
 
 ### Direct o1 Replication Efforts
 - DeepSeek R-1: (https://chat.deepseek.com/)
@@ -372,6 +373,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 ## Youtube Content
 
+- Sasha Rush: [Speculations on Test-Time Scaling (o1)](https://youtu.be/6PEJ96k1kiw)
 - François Chollet: [It's Not About Scale, It's About Abstraction](https://youtu.be/s7_NlkBwdj8?feature=shared)
 - [Evaluating, Understanding and Improving Approaches for Machine Reasoning](https://www.youtube.com/watch?v=sxbfvVcbIi8)
 - Channel: [David Shapiro](https://www.youtube.com/@DaveShap)
@@ -394,6 +396,16 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [together.ai](https://docs.together.ai/docs/introduction)
 - [groq.com](https://console.groq.com)
 - [openrouter.ai](https://openrouter.ai/)
+
+
+## Open-weights Reasoning Models
+
+- [ruliad/deepthought-8b-llama-v0.01-alpha](https://huggingface.co/ruliad/deepthought-8b-llama-v0.01-alpha) JSON format: 1. Problem understanding, 2. Data gathering, 3. Analysis, 4. Calculation (when applicable), 5. Verification, 6. Conclusion drawing, 7. Implementation
+- [migtissera/Tess-R1-Limerick-Llama-3.1-70B](https://huggingface.co/migtissera/Tess-R1-Limerick-Llama-3.1-70B) xml tags:
+  1. `<thinking>`  tag to indicate when the model is performing CoT.
+  2. `<contemplation>` tag when the model contemplate on its answers.
+  3. `<alternatively>` tag for alternate suggestions.
+  4. `<output>` for the final output
 
 
 ## Novel model architectures
