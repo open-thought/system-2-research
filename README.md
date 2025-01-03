@@ -35,7 +35,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ## Agent Papers
 
 ### LLM Based
-- [LLaVA-o1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/html/2411.10440v1) (Nov 2024)
+- Nov 2024  [LLaVA-o1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/html/2411.10440v1)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/abs/2405.15793)
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292), gh: [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
@@ -71,6 +71,12 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164)
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
+
+- 30 Dec 2024  [Aviary: training language agents on challenging scientific tasks](https://arxiv.org/abs/2412.21154) - expert iteration & rejection sampling
+- 25 Dec 2024  [HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/pdf/2412.18925)
+- 18 Dec 2024  [A Survey on LLM Inference-Time Self-Improvement](https://arxiv.org/abs/2412.14352)
+- 02 Dec 2024  [Mastering Board Games by External and Internal Planning with Language Models](https://arxiv.org/abs/2412.12119)
+- 14 Oct 2024  TPO: [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
 - [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
 - [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](https://arxiv.org/abs/2409.08239)
 - [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
@@ -93,13 +99,17 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - Blog: [Reverse engineering OpenAI’s o1 ](https://www.interconnects.ai/p/reverse-engineering-openai-o1) by [Nathan Lambert](https://twitter.com/natolambert)
 
 ### Reward Models (ORM/PRM)
+- 02 Jan 2025  [Process Reinforcement through Implicit Rewards](https://curvy-check-498.notion.site/-Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f) - implicit PRM, gh: [PRIME-RL/PRIME](https://github.com/PRIME-RL/PRIME)
 - [Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning](https://arxiv.org/abs/2410.08146)
 - [Solving math word problems with process- and outcome-based feedback](https://arxiv.org/abs/2211.14275)
 - [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
 - [RATIONALYST: Pre-training Process-Supervision for Improving Reasoning](https://arxiv.org/abs/2410.01044)
+- 14 Dec 2023, [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935)
 
 ### RL
-- [RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement Learning](https://arxiv.org/abs/2410.02089)
+- 20 Dec 2024  OREO: [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
+- 11 Oct 2024  DQO: [Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization](https://arxiv.org/abs/2410.09302)
+- 02 Oct 2024  [RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement Learning](https://arxiv.org/abs/2410.02089)
 - [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808)
 - [ReFT: Reasoning with Reinforced Fine-Tuning](https://arxiv.org/abs/2401.08967)
 - [ARES: Alternating Reinforcement Learning and Supervised Fine-Tuning for Enhanced Multi-Modal Chain-of-Thought Reasoning Through Diverse AI Feedback](https://arxiv.org/pdf/2407.00087)
@@ -179,6 +189,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 - Divergent CoT (DCoT), [Paper](https://arxiv.org/abs/2407.03181)
 - Iteration of Thought (IoT), [Paper](https://arxiv.org/abs/2409.12618)
 - Logic-of-Thought (LoT) [Paper](https://arxiv.org/abs/2409.17539)
+- Forest-of-Thought (FoT) [Paper](https://arxiv.org/abs/2412.09078)
 
 ### Negative results
 - [Chain of Thoughtlessness? An Analysis of CoT in Planning](https://arxiv.org/abs/2405.04776)
@@ -186,12 +197,14 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 
 ## Mechanistic Interpretability
 
+- Anthropic: [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 - [Geometric Space of Hierarchical Concepts in LLM](https://arxiv.org/abs/2406.01506)
 
 
 ## Blog Posts / Presentations
 
 - HF: [Scaling Test Time Compute with Open Models](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)
+- Nebius: [Leveraging training and search for better software engineering agents](https://nebius.com/blog/posts/training-and-search-for-software-engineering-agents)
 - DeepMind [AlphaProof and AlphaGeometry 2](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
 - [Getting 50% (SoTA) on ARC-AGI with GPT-4o](https://www.lesswrong.com/posts/Rdwui3wHxCeKb7feK/getting-50-sota-on-arc-agi-with-gpt-4o), code: [rgreenblatt/arc_draw_more_samples_pub](https://github.com/rgreenblatt/arc_draw_more_samples_pub)
 - Schmidhuber: [Artificial Curiosity & Creativity](https://people.idsia.ch/~juergen/artificial-curiosity-since-1990.html)
@@ -249,6 +262,8 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 
 ## Open-Source Agents & Agent Frameworks
 
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+- [meta-llama/llama-agentic-system](https://github.com/meta-llama/llama-agentic-system)
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher), [docs](https://docs.gptr.dev/docs/gpt-researcher/introduction)
 - [open-interpreter](https://github.com/OpenInterpreter/open-interpreter), [docs](https://docs.openinterpreter.com/getting-started/introduction)
 - [ADAS](https://github.com/ShengranHu/ADAS) (Automated Design of Agentic Systems)
@@ -295,6 +310,7 @@ Weak methods are general but don't use knowledge (heuristics) to guide the searc
 - [Conscious Mind, Resonant Brain: How Each Brain Makes a Mind](https://a.co/d/5Hl3n7H), Stephen Grossberg, Oxford University Press, 2021
 - [The Society of Mind](https://www.amazon.com/Society-Mind-Marvin-Minsky/dp/0671657135), Marvin Minsky, Simon & Schuster, 1986
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) 2nd Edition, Sutton & Barto, MIT Press, 2018
+- [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265), Dec 2024, Kevin Murphy
 - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning), Shiyu Zhao, open course on github + [video lectures](https://www.youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8)
 - [Natural Language Cognitive Architecture](https://github.com/daveshap/NaturalLanguageCognitiveArchitecture), David Shapiro, 2022, open source copy
 - [An Introduction to Universal Artificial Intelligence](https://a.co/d/b61JiOh), Marcus Hutter, David Quarel, Elliot Catt, CRC Press, 2024 - AIXI, [Slides](http://hutter1.net/ai/suaibook.pdf), [Video](https://cartesiancafe.podbean.com/e/marcus-hutter-universal-artificial-intelligence-and-solomonoff-induction/)
@@ -329,7 +345,6 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [continuedev/continue](https://github.com/continuedev/continue)
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) (formerly OpenDevin)
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent), [documentation](https://princeton-nlp.github.io/SWE-agent/)
-- [meta-llama/llama-agentic-system](https://github.com/meta-llama/llama-agentic-system)
 - [stanfordnlp/dspy]( https://github.com/stanfordnlp/dspy), DSPy awesome list: [ganarajpr/awesome-dspy](https://github.com/ganarajpr/awesome-dspy), [paper](https://arxiv.org/abs/2310.03714)
 - [InternLM/lagent](https://github.com/InternLM/lagent) - lightweight framework for building LLM-based agents
 
@@ -338,9 +353,18 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - Software Engineering
   - [Devin](https://preview.devin.ai/)
   - [Cursor](https://www.cursor.com/)
-  - [copilot-workspace](https://githubnext.com/projects/copilot-workspace)
+  - [Windsurf](https://codeium.com/windsurf) by Codeium
+  - [GitHub Copilot](https://github.com/features/copilot) & [copilot-workspace](https://githubnext.com/projects/copilot-workspace)
   - [textgrad](https://textgrad.com/)
   - [Cosine Genie](https://cosine.sh/genie)
+  - [v0.dev](https://v0.dev/) by Vercel
+  - [Replit AI](https://replit.com/)
+  - [bolt](https://bolt.new/)
+  - [continue.dev](https://www.continue.dev/)
+  - [Amazon Q Developer](https://aws.amazon.com/de/q/developer/)
+  - [Codey](https://sourcegraph.com/cody)by Sourcegraph
+- AWS [Automated Reasoning checks](https://aws.amazon.com/en/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
+
 
 # Competitions & Benchmarks
 
@@ -368,6 +392,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 - [Awesome LLM Strawberry (OpenAI o1)](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
 - [awesome-o1](https://github.com/srush/awesome-o1) literature list by [Sasha Rush](https://twitter.com/srush_nlp)
+- [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
 - Nous Research [Open Reasoning Tasks](https://reasoning.nousresearch.com/), a list of reasoning tasks, gh: [NousResearch/Open-Reasoning-Tasks](https://github.com/NousResearch/Open-Reasoning-Tasks)
 - [ARC-AGI Resources](https://docs.google.com/spreadsheets/d/1fR4cgjY1kNKN_dxiidBQbyT6Gv7_Ko7daKOjlYojwTY/edit?pli=1&gid=756763742#gid=756763742) Google table paper list by [ARC price](https://arcprize.org/)
 
@@ -386,11 +411,6 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [code_your_own_AI: The CORE IDEA of AI Agents Explained](https://youtu.be/xdAKa8jFx3g)
 
 
-### Joscha Bach
-- [Machine Consciousness](https://youtu.be/LlLbHm-bJQE)
-- [Consciousness as a coherence-inducing operator](https://www.youtube.com/watch?v=qoHCQ1ozswA) Talk by Josha Bach at the [Models of Consciousness Conferences](https://models-of-consciousness.org/)
-
-
 ## Best LLM APIs
 
 - [Anthropic Claude](https://docs.anthropic.com/en/api/getting-started)
@@ -401,6 +421,8 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 ## Open-weights Reasoning Models
 
+- [SmallThinker-3B-Preview](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview) (small model trained on [PowerInfer/QWQ-LONGCOT-500K](https://huggingface.co/datasets/PowerInfer/QWQ-LONGCOT-500K))
+- [QwQ-32B-Preview](https://huggingface.co/Qwen/QwQ-32B-Preview), [Blog post](https://qwenlm.github.io/blog/qwq-32b-preview/)
 - [ruliad/deepthought-8b-llama-v0.01-alpha](https://huggingface.co/ruliad/deepthought-8b-llama-v0.01-alpha) JSON format: 1. Problem understanding, 2. Data gathering, 3. Analysis, 4. Calculation (when applicable), 5. Verification, 6. Conclusion drawing, 7. Implementation
 - [migtissera/Tess-R1-Limerick-Llama-3.1-70B](https://huggingface.co/migtissera/Tess-R1-Limerick-Llama-3.1-70B) xml tags:
   1. `<thinking>`  tag to indicate when the model is performing CoT.
@@ -420,6 +442,10 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 ## Philosophy: Nature of Intelligence & Consciousness
 
 - [A High Level Theory on the Nature of Intelligence and Consciousness](https://philarchive.org/rec/GARAHL)
+
+### Joscha Bach
+- [Machine Consciousness](https://youtu.be/LlLbHm-bJQE)
+- [Consciousness as a coherence-inducing operator](https://www.youtube.com/watch?v=qoHCQ1ozswA) Talk by Josha Bach at the [Models of Consciousness Conferences](https://models-of-consciousness.org/)
 
 
 ## Biology / Neuroscience
