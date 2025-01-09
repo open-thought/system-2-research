@@ -72,6 +72,8 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
 
+- 08 Jan 2025  MetaCoT: [Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
+- 05 Jan 2025  [Test-time Computing: from System-1 Thinking to System-2 Thinking](https://arxiv.org/abs/2501.02497)
 - 30 Dec 2024  [Aviary: training language agents on challenging scientific tasks](https://arxiv.org/abs/2412.21154) - expert iteration & rejection sampling
 - 25 Dec 2024  [HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/pdf/2412.18925)
 - 18 Dec 2024  [A Survey on LLM Inference-Time Self-Improvement](https://arxiv.org/abs/2412.14352)
@@ -203,6 +205,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 
 ## Blog Posts / Presentations
 
+- 07 Jan 2025  Chip Huyen: [Agents](https://huyenchip.com/2025/01/07/agents.html)
 - HF: [Scaling Test Time Compute with Open Models](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)
 - Nebius: [Leveraging training and search for better software engineering agents](https://nebius.com/blog/posts/training-and-search-for-software-engineering-agents)
 - DeepMind [AlphaProof and AlphaGeometry 2](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
@@ -433,6 +436,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 ## Novel model architectures
 
+- 31 Dec 2024  [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 - [Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities](https://arxiv.org/abs/2311.05698)
 - [Memory3: Language Modeling with Explicit Memory](https://arxiv.org/abs/2407.01178)
 - TTT: [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/abs/2407.04620), [Video](https://www.youtube.com/watch?v=I9Ghw2Z7Gqk)
