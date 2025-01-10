@@ -102,6 +102,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ### Reward Models (ORM/PRM)
 - 02 Jan 2025  [Process Reinforcement through Implicit Rewards](https://curvy-check-498.notion.site/-Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f) - implicit PRM, gh: [PRIME-RL/PRIME](https://github.com/PRIME-RL/PRIME)
+- 02 Dec 2024  Implicit PRM: [Free Process Rewards without Process Labels](https://arxiv.org/abs/2412.01981), gh: [PRIME-RL/ImplicitPRM](https://github.com/PRIME-RL/ImplicitPRM)
 - [Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning](https://arxiv.org/abs/2410.08146)
 - [Solving math word problems with process- and outcome-based feedback](https://arxiv.org/abs/2211.14275)
 - [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
