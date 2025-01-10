@@ -359,6 +359,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
   - [Cursor](https://www.cursor.com/)
   - [Windsurf](https://codeium.com/windsurf) by Codeium
   - [GitHub Copilot](https://github.com/features/copilot) & [copilot-workspace](https://githubnext.com/projects/copilot-workspace)
+  - [lovable.dev](https://lovable.dev/)
   - [textgrad](https://textgrad.com/)
   - [Cosine Genie](https://cosine.sh/genie)
   - [v0.dev](https://v0.dev/) by Vercel
