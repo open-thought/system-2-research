@@ -35,6 +35,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ## Agent Papers
 
 ### LLM Based
+- 06 Jan 2025  [Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches](https://arxiv.org/abs/2501.03151)
 - Nov 2024  [LLaVA-o1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/html/2411.10440v1)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/abs/2405.15793)
@@ -72,6 +73,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
 
+- 08 Jan 2025  [rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](https://arxiv.org/abs/2501.04519)
 - 08 Jan 2025  MetaCoT: [Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
 - 05 Jan 2025  [Test-time Computing: from System-1 Thinking to System-2 Thinking](https://arxiv.org/abs/2501.02497)
 - 30 Dec 2024  [Aviary: training language agents on challenging scientific tasks](https://arxiv.org/abs/2412.21154) - expert iteration & rejection sampling
@@ -426,6 +428,8 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 ## Open-weights Reasoning Models
 
+- [NovaSky-AI/Sky-T1-32B-Preview](https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview), [Blog](https://novasky-ai.github.io/posts/sky-t1/), gh: [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought)
+- [ngxson/MiniThinky-v2-1B-Llama-3.2](https://huggingface.co/ngxson/MiniThinky-v2-1B-Llama-3.2)
 - [SmallThinker-3B-Preview](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview) (small model trained on [PowerInfer/QWQ-LONGCOT-500K](https://huggingface.co/datasets/PowerInfer/QWQ-LONGCOT-500K))
 - [QwQ-32B-Preview](https://huggingface.co/Qwen/QwQ-32B-Preview), [Blog post](https://qwenlm.github.io/blog/qwq-32b-preview/)
 - [ruliad/deepthought-8b-llama-v0.01-alpha](https://huggingface.co/ruliad/deepthought-8b-llama-v0.01-alpha) JSON format: 1. Problem understanding, 2. Data gathering, 3. Analysis, 4. Calculation (when applicable), 5. Verification, 6. Conclusion drawing, 7. Implementation
