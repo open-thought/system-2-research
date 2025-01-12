@@ -357,6 +357,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 ## Commercial Offerings
 
 - Software Engineering
+  - [aide.dev](https://aide.dev/) + [codestoryai/sidecar](https://github.com/codestoryai/sidecar)
   - [Devin](https://preview.devin.ai/)
   - [Cursor](https://www.cursor.com/)
   - [Windsurf](https://codeium.com/windsurf) by Codeium
