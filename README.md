@@ -469,6 +469,10 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 https://s2r-at-scale-workshop.github.io (NeurIPS 2024)
 
+## Tutorials
+
+- [Neurips 2024 Tutorial: Beyond Decoding: Meta-Generation Algorithms for Large Language Models](https://cmu-l3.github.io/neurips2024-inference-tutorial/)
+
 
 ## How to contribute
 
