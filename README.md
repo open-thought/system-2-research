@@ -109,12 +109,13 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [Solving math word problems with process- and outcome-based feedback](https://arxiv.org/abs/2211.14275)
 - [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
 - [RATIONALYST: Pre-training Process-Supervision for Improving Reasoning](https://arxiv.org/abs/2410.01044)
-- 14 Dec 2023, [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935)
+- 14 Dec 2023  [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935)
 
 ### RL
+- 04 Jan 2025  REINFORCE++: [A Simple and Efficient Approach for Aligning Large Language Models](https://arxiv.org/abs/2501.03262)
 - 20 Dec 2024  OREO: [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 - 11 Oct 2024  DQO: [Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization](https://arxiv.org/abs/2410.09302)
-- 02 Oct 2024  [RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement Learning](https://arxiv.org/abs/2410.02089)
+- 02 Oct 2024  RLEF: [Grounding Code LLMs in Execution Feedback with Reinforcement Learning](https://arxiv.org/abs/2410.02089)
 - [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808)
 - [ReFT: Reasoning with Reinforced Fine-Tuning](https://arxiv.org/abs/2401.08967)
 - [ARES: Alternating Reinforcement Learning and Supervised Fine-Tuning for Enhanced Multi-Modal Chain-of-Thought Reasoning Through Diverse AI Feedback](https://arxiv.org/pdf/2407.00087)
@@ -208,6 +209,8 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 
 ## Blog Posts / Presentations
 
+- 08 Jan 2025  ML CMU: [Optimizing LLM Test-Time Compute Involves Solving a Meta-RL Problem](https://blog.ml.cmu.edu/2025/01/08/optimizing-llm-test-time-compute-involves-solving-a-meta-rl-problem/)
+- 09 Jan 2025  Notebook: [Agentic RAG with Hugging Face smolagents vs Vanilla RAG](https://colab.research.google.com/drive/1hG3dPgd8wjrO9wSD0K0Feo7EY1iXqrEN?usp=sharing)
 - 07 Jan 2025  Chip Huyen: [Agents](https://huyenchip.com/2025/01/07/agents.html)
 - HF: [Scaling Test Time Compute with Open Models](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)
 - Nebius: [Leveraging training and search for better software engineering agents](https://nebius.com/blog/posts/training-and-search-for-software-engineering-agents)
