@@ -73,13 +73,14 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
 
-- 08 Jan 2025  [rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](https://arxiv.org/abs/2501.04519)
 - 08 Jan 2025  MetaCoT: [Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
 - 05 Jan 2025  [Test-time Computing: from System-1 Thinking to System-2 Thinking](https://arxiv.org/abs/2501.02497)
 - 30 Dec 2024  [Aviary: training language agents on challenging scientific tasks](https://arxiv.org/abs/2412.21154) - expert iteration & rejection sampling
 - 25 Dec 2024  [HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/pdf/2412.18925)
 - 18 Dec 2024  [A Survey on LLM Inference-Time Self-Improvement](https://arxiv.org/abs/2412.14352)
+- 12 Dec 2024  STILL-2: [Imitate, Explore, and Self-Improve: A Reproduction Report on Slow-thinking Reasoning Systems](https://arxiv.org/abs/2412.09413)
 - 02 Dec 2024  [Mastering Board Games by External and Internal Planning with Language Models](https://arxiv.org/abs/2412.12119)
+- 29 Nov 2024  [Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability](https://arxiv.org/abs/2411.19943)
 - 14 Oct 2024  TPO: [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
 - [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
 - [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](https://arxiv.org/abs/2409.08239)
@@ -103,6 +104,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - Blog: [Reverse engineering OpenAI’s o1 ](https://www.interconnects.ai/p/reverse-engineering-openai-o1) by [Nathan Lambert](https://twitter.com/natolambert)
 
 ### Reward Models (ORM/PRM)
+- 13 Jan 2025  QwQ PRM: [The Lessons of Developing Process Reward Models in Mathematical Reasoning](https://arxiv.org/abs/2501.07301) - consensus of MC estimation & LLM-as-a-judge
 - 02 Jan 2025  [Process Reinforcement through Implicit Rewards](https://curvy-check-498.notion.site/-Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f) - implicit PRM, gh: [PRIME-RL/PRIME](https://github.com/PRIME-RL/PRIME)
 - 02 Dec 2024  Implicit PRM: [Free Process Rewards without Process Labels](https://arxiv.org/abs/2412.01981), gh: [PRIME-RL/ImplicitPRM](https://github.com/PRIME-RL/ImplicitPRM)
 - [Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning](https://arxiv.org/abs/2410.08146)
@@ -121,6 +123,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [ARES: Alternating Reinforcement Learning and Supervised Fine-Tuning for Enhanced Multi-Modal Chain-of-Thought Reasoning Through Diverse AI Feedback](https://arxiv.org/pdf/2407.00087)
 
 ### MCTS
+- 08 Jan 2025  [rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](https://arxiv.org/abs/2501.04519)
 - [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199)
 - [Improve Mathematical Reasoning in Language Models by Automated Process Supervision](https://arxiv.org/abs/2406.06592)
 - [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://arxiv.org/abs/2404.12253)
@@ -350,6 +353,8 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 ## Software Tools & Libraries
 
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
+- [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
+- [PRIME-RL/PRIME](https://github.com/PRIME-RL/PRIME)
 - [claude-engineer](https://github.com/Doriandarko/claude-engineer)
 - [continuedev/continue](https://github.com/continuedev/continue)
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) (formerly OpenDevin)
@@ -446,7 +451,9 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 ## Novel model architectures
 
+- 09 Jan 2025  [Transformer^2: Self-adaptive LLMs](https://arxiv.org/abs/2501.06252)
 - 31 Dec 2024  [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
+- 27 Dec 2025  [Xmodel-2 Technical Report](https://arxiv.org/pdf/2412.19638) - Deep-and-Thin Architecture (1.2B, 48 layers)
 - [Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities](https://arxiv.org/abs/2311.05698)
 - [Memory3: Language Modeling with Explicit Memory](https://arxiv.org/abs/2407.01178)
 - TTT: [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/abs/2407.04620), [Video](https://www.youtube.com/watch?v=I9Ghw2Z7Gqk)
