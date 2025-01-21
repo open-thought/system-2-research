@@ -118,7 +118,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - 20 Dec 2024  OREO: [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 - 11 Oct 2024  DQO: [Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization](https://arxiv.org/abs/2410.09302)
 - 02 Oct 2024  RLEF: [Grounding Code LLMs in Execution Feedback with Reinforcement Learning](https://arxiv.org/abs/2410.02089)
-- [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808)
+- 08 Feb 2024  R^3: [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808)
 - [ReFT: Reasoning with Reinforced Fine-Tuning](https://arxiv.org/abs/2401.08967)
 - [ARES: Alternating Reinforcement Learning and Supervised Fine-Tuning for Enhanced Multi-Modal Chain-of-Thought Reasoning Through Diverse AI Feedback](https://arxiv.org/pdf/2407.00087)
 
@@ -451,6 +451,8 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 ## Novel model architectures
 
+- 20 Jan 2025  [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5/blob/main/Kimi_k1.5.pdf)
+- 20 Jan 2025  [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
 - 09 Jan 2025  [Transformer^2: Self-adaptive LLMs](https://arxiv.org/abs/2501.06252)
 - 31 Dec 2024  [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 - 27 Dec 2025  [Xmodel-2 Technical Report](https://arxiv.org/pdf/2412.19638) - Deep-and-Thin Architecture (1.2B, 48 layers)
