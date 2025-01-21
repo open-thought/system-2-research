@@ -438,6 +438,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 ## Open-weights Reasoning Models
 
+- [DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)
 - [NovaSky-AI/Sky-T1-32B-Preview](https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview), [Blog](https://novasky-ai.github.io/posts/sky-t1/), gh: [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought)
 - [ngxson/MiniThinky-v2-1B-Llama-3.2](https://huggingface.co/ngxson/MiniThinky-v2-1B-Llama-3.2)
 - [SmallThinker-3B-Preview](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview) (small model trained on [PowerInfer/QWQ-LONGCOT-500K](https://huggingface.co/datasets/PowerInfer/QWQ-LONGCOT-500K))
