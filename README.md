@@ -95,7 +95,9 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - LaTRO: [Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282), [code](https://github.com/SalesforceAIResearch/LaTRO)
 
 ### Direct o1 Replication Efforts
-- DeepSeek R-1: (https://chat.deepseek.com/)
+- [HF open-r1](https://huggingface.co/open-r1): A fully open reproduction of DeepSeek-R1, gh: [huggingface/open-r1](https://github.com/huggingface/open-r1)
+- [TinyZero](https://github.com/Jiayi-Pan/TinyZero): A reproduction of DeepSeek R1 Zero in countdown and multiplication tasks. x: [thread](https://x.com/jiayi_pirate/status/1882839370505621655)
+- DeepSeek R-1: (https://chat.deepseek.com/), Tech report: [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 - OpenR: [Technical Report](https://github.com/openreasoner/openr/blob/main/reports/OpenR-Wang.pdf), [Project Page](https://openreasoner.github.io/), code: [openreasoner/openr](https://github.com/openreasoner/openr)
 - [GAIR-NLP/O1-Journey](https://github.com/GAIR-NLP/O1-Journey), [O1 Replication Journey: Strategic Progress Report - Part 1](https://arxiv.org/abs/2410.18982)
 - [OpenSource-O1/Open-O1](https://github.com/OpenSource-O1/Open-O1)
@@ -213,6 +215,8 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 
 ## Blog Posts / Presentations
 
+- 25 Jan 2025  NLP@HKUST: [https://hkust-nlp.notion.site/simplerl-reason](https://hkust-nlp.notion.site/simplerl-reason), gh: [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)
+- 23 Jan 2025  Philschmid: [How to align open LLMs in 2025 with DPO & and synthetic data](https://www.philschmid.de/rl-with-llms-in-2025-dpo)
 - 08 Jan 2025  ML CMU: [Optimizing LLM Test-Time Compute Involves Solving a Meta-RL Problem](https://blog.ml.cmu.edu/2025/01/08/optimizing-llm-test-time-compute-involves-solving-a-meta-rl-problem/)
 - 09 Jan 2025  Notebook: [Agentic RAG with Hugging Face smolagents vs Vanilla RAG](https://colab.research.google.com/drive/1hG3dPgd8wjrO9wSD0K0Feo7EY1iXqrEN?usp=sharing)
 - 07 Jan 2025  Chip Huyen: [Agents](https://huyenchip.com/2025/01/07/agents.html)
