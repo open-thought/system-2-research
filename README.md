@@ -82,6 +82,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - 02 Dec 2024  [Mastering Board Games by External and Internal Planning with Language Models](https://arxiv.org/abs/2412.12119)
 - 29 Nov 2024  [Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability](https://arxiv.org/abs/2411.19943)
 - 14 Oct 2024  TPO: [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
+- 4 Oct 2024  SWAP: [Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model](https://arxiv.org/abs/2410.03136)
 - [Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
 - [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](https://arxiv.org/abs/2409.08239)
 - [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
@@ -159,6 +160,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 
 ### Neuro-Symbolic Approaches
 
+- [Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model](https://arxiv.org/abs/2410.03136)
 - [HYSYNTH: Context-Free LLM Approximation for Guiding Program Synthesis](https://arxiv.org/abs/2405.15880)
 - [SymbolicAI: A framework for logic-based approaches combining generative models and solvers](https://arxiv.org/abs/2402.00854), Library: [ExtensityAI/symbolicai](https://github.com/ExtensityAI/symbolicai)
 - [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381)
