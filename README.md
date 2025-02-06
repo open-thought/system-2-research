@@ -73,6 +73,9 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
 
+- 05 Feb 2025  LIMO: [Less is More for Reasoning](https://arxiv.org/abs/2502.03387)
+- 04 Feb 2025  Satori: [Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search](https://arxiv.org/abs/2502.02508)
+- 31 Jan 2025  s1: [Simple test-time scaling](https://arxiv.org/abs/2501.19393)
 - 08 Jan 2025  MetaCoT: [Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
 - 05 Jan 2025  [Test-time Computing: from System-1 Thinking to System-2 Thinking](https://arxiv.org/abs/2501.02497)
 - 30 Dec 2024  [Aviary: training language agents on challenging scientific tasks](https://arxiv.org/abs/2412.21154) - expert iteration & rejection sampling
@@ -217,6 +220,8 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 
 ## Blog Posts / Presentations
 
+- 05 Feb 2025  Sebastian Raschka [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
+- 02 Feb 2025  Huggingface [Open-R1: Update #1](https://huggingface.co/blog/open-r1/update-1)
 - 25 Jan 2025  NLP@HKUST: [https://hkust-nlp.notion.site/simplerl-reason](https://hkust-nlp.notion.site/simplerl-reason), gh: [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)
 - 23 Jan 2025  Philschmid: [How to align open LLMs in 2025 with DPO & and synthetic data](https://www.philschmid.de/rl-with-llms-in-2025-dpo)
 - 08 Jan 2025  ML CMU: [Optimizing LLM Test-Time Compute Involves Solving a Meta-RL Problem](https://blog.ml.cmu.edu/2025/01/08/optimizing-llm-test-time-compute-involves-solving-a-meta-rl-problem/)
