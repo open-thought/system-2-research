@@ -99,6 +99,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - LaTRO: [Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282), [code](https://github.com/SalesforceAIResearch/LaTRO)
 
 ### Direct o1 Replication Efforts
+- [Unsloth GRPO](https://unsloth.ai/blog/r1-reasoning): Train your own R1 reasoning model with Unsloth (GRPO)
 - [HF open-r1](https://huggingface.co/open-r1): A fully open reproduction of DeepSeek-R1, gh: [huggingface/open-r1](https://github.com/huggingface/open-r1)
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero): A reproduction of DeepSeek R1 Zero in countdown and multiplication tasks. x: [thread](https://x.com/jiayi_pirate/status/1882839370505621655)
 - DeepSeek R-1: (https://chat.deepseek.com/), Tech report: [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
@@ -179,6 +180,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 ### Active Inference
 
 - [From pixels to planning: scale-free active inference](https://arxiv.org/abs/2407.20292)
+- [Deep active inference agents using Monte-Carlo methods](https://arxiv.org/abs/2006.04176)
 
 
 ## Prompting Techniques
