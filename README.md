@@ -75,6 +75,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ### LLM Reasoning Improvements / Training on Synthetic Data
 
 - 06 Mar 2025  START: [Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625)
+- 02 Mar 2025  LADDER: [Self-Improving LLMs Through Recursive Problem Decomposition](https://arxiv.org/abs/2503.00735)
 - 17 Feb 2025  [Scaling Test-Time Compute Without Verification or RL is Suboptimal](https://arxiv.org/abs/2502.12118)
 - 13 Feb 2025  [Self-Improving Transformers Overcome Easy-to-Hard and Length Generalization Challenges](https://arxiv.org/abs/2502.01612)
 - 11 Feb 2025  CodeI/O: [Condensing Reasoning Patterns via Code Input-Output Prediction](https://arxiv.org/abs/2502.07316)
