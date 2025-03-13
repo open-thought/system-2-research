@@ -73,6 +73,8 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 
 ### LLM Reasoning Improvements / Training on Synthetic Data
 
+- 06 Mar 2025  START: [Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625)
+- 11 Feb 2025  CodeI/O: [Condensing Reasoning Patterns via Code Input-Output Prediction](https://arxiv.org/abs/2502.07316)
 - 05 Feb 2025  LIMO: [Less is More for Reasoning](https://arxiv.org/abs/2502.03387)
 - 04 Feb 2025  Satori: [Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search](https://arxiv.org/abs/2502.02508)
 - 31 Jan 2025  s1: [Simple test-time scaling](https://arxiv.org/abs/2501.19393)
@@ -97,6 +99,15 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - Self-Notes: [Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833)
 - [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/abs/2405.14838)
 - LaTRO: [Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282), [code](https://github.com/SalesforceAIResearch/LaTRO)
+
+### Datasets
+
+- [SYNTHETIC-1](https://huggingface.co/collections/PrimeIntellect/synthetic-1-67a2c399cfdd6c9f7fae0c37) (Prime Intellect)
+- [Open Reasoning Data](https://gr.inc/) (General Reasoning)
+- [OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k)
+- [reasoning-gym](https://github.com/open-thought/reasoning-gym) (Open-Thought Community)
+- [open-r1 datastes](https://huggingface.co/open-r1) (Huggingface)
+
 
 ### Direct o1 Replication Efforts
 - [HF open-r1](https://huggingface.co/open-r1): A fully open reproduction of DeepSeek-R1, gh: [huggingface/open-r1](https://github.com/huggingface/open-r1)
@@ -207,6 +218,8 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 - Iteration of Thought (IoT), [Paper](https://arxiv.org/abs/2409.12618)
 - Logic-of-Thought (LoT) [Paper](https://arxiv.org/abs/2409.17539)
 - Forest-of-Thought (FoT) [Paper](https://arxiv.org/abs/2412.09078)
+- Chain of Draft (CoD): [Paper](https://arxiv.org/abs/2502.18600)
+
 
 ### Negative results
 - [Chain of Thoughtlessness? An Analysis of CoT in Planning](https://arxiv.org/abs/2405.04776)
@@ -464,6 +477,8 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 
 ## Novel model architectures
 
+- 12 Mar 2025  [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573)
+- 14 Feb 2025  [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 - 20 Jan 2025  [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5/blob/main/Kimi_k1.5.pdf)
 - 20 Jan 2025  [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
 - 09 Jan 2025  [Transformer^2: Self-adaptive LLMs](https://arxiv.org/abs/2501.06252)
