@@ -74,9 +74,12 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ### LLM Reasoning Improvements / Training on Synthetic Data
 
 - 06 Mar 2025  START: [Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625)
+- 17 Feb 2025  [Scaling Test-Time Compute Without Verification or RL is Suboptimal](https://arxiv.org/abs/2502.12118)
+- 13 Feb 2025  [Self-Improving Transformers Overcome Easy-to-Hard and Length Generalization Challenges](https://arxiv.org/abs/2502.01612)
 - 11 Feb 2025  CodeI/O: [Condensing Reasoning Patterns via Code Input-Output Prediction](https://arxiv.org/abs/2502.07316)
+- 07 Feb 2025  [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)
+- 05 Feb 2025  [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
 - 05 Feb 2025  LIMO: [Less is More for Reasoning](https://arxiv.org/abs/2502.03387)
-- 04 Feb 2025  Satori: [Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search](https://arxiv.org/abs/2502.02508)
 - 31 Jan 2025  s1: [Simple test-time scaling](https://arxiv.org/abs/2501.19393)
 - 08 Jan 2025  MetaCoT: [Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
 - 05 Jan 2025  [Test-time Computing: from System-1 Thinking to System-2 Thinking](https://arxiv.org/abs/2501.02497)
@@ -131,16 +134,20 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - 14 Dec 2023  [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935)
 
 ### RL
+- 18 Feb 2025  [Competitive Programming with Large Reasoning Models](https://arxiv.org/abs/2502.06807) (OpenAI)
+- 04 Feb 2025  Satori: [Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search](https://arxiv.org/abs/2502.02508)
 - 04 Jan 2025  REINFORCE++: [A Simple and Efficient Approach for Aligning Large Language Models](https://arxiv.org/abs/2501.03262)
 - 20 Dec 2024  OREO: [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 - 11 Oct 2024  DQO: [Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization](https://arxiv.org/abs/2410.09302)
 - 02 Oct 2024  RLEF: [Grounding Code LLMs in Execution Feedback with Reinforcement Learning](https://arxiv.org/abs/2410.02089)
 - 08 Feb 2024  R^3: [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808)
 - 05 Feb 2024  GRPO: [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+- 11 Jul 2023  [Secrets of RLHF in Large Language Models Part I: PPO](https://arxiv.org/abs/2307.04964)
 - [ReFT: Reasoning with Reinforced Fine-Tuning](https://arxiv.org/abs/2401.08967)
 - [ARES: Alternating Reinforcement Learning and Supervised Fine-Tuning for Enhanced Multi-Modal Chain-of-Thought Reasoning Through Diverse AI Feedback](https://arxiv.org/pdf/2407.00087)
 
 ### MCTS
+- 11 Feb 2025  [Monte Carlo Tree Diffusion for System 2 Planning](https://arxiv.org/abs/2502.07202)
 - 08 Jan 2025  [rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](https://arxiv.org/abs/2501.04519)
 - [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199)
 - [Improve Mathematical Reasoning in Language Models by Automated Process Supervision](https://arxiv.org/abs/2406.06592)
@@ -234,6 +241,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 ## Blog Posts / Presentations
 
 - 05 Feb 2025  Sebastian Raschka [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
+- 06 Feb 2025  unsloth [Train your own R1 reasoning model with Unsloth (GRPO)](https://unsloth.ai/blog/r1-reasoning)
 - 02 Feb 2025  Huggingface [Open-R1: Update #1](https://huggingface.co/blog/open-r1/update-1)
 - 25 Jan 2025  NLP@HKUST: [https://hkust-nlp.notion.site/simplerl-reason](https://hkust-nlp.notion.site/simplerl-reason), gh: [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)
 - 23 Jan 2025  Philschmid: [How to align open LLMs in 2025 with DPO & and synthetic data](https://www.philschmid.de/rl-with-llms-in-2025-dpo)
@@ -315,6 +323,7 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 - [motleycrew](https://github.com/ShoggothAI/motleycrew), [docs](https://motleycrew.readthedocs.io/en/latest/)
 - [langflow](https://github.com/langflow-ai/langflow), [docs](https://docs.langflow.org/)
 - [show-me](https://github.com/marlaman/show-me): A Visual and Transparent Reasoning Agent
+- [ReasonerAgent-Web](https://github.com/maitrix-org/llm-reasoners/tree/main/examples/ReasonerAgent-Web)
 
 
 ## Algorithms
@@ -387,6 +396,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [stanfordnlp/dspy]( https://github.com/stanfordnlp/dspy), DSPy awesome list: [ganarajpr/awesome-dspy](https://github.com/ganarajpr/awesome-dspy), [paper](https://arxiv.org/abs/2310.03714)
 - [InternLM/lagent](https://github.com/InternLM/lagent) - lightweight framework for building LLM-based agents
 
+
 ## Commercial Offerings
 
 - Software Engineering
@@ -407,6 +417,8 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
   - [Claude Code](https://github.com/anthropics/claude-code)
 - Terminal
   - [warp](https://www.warp.dev/)
+- General AI agent
+  - [Manus](https://manus.im/)
 - AWS [Automated Reasoning checks](https://aws.amazon.com/en/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
 
 
@@ -483,6 +495,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 ## Novel model architectures
 
 - 12 Mar 2025  [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573)
+- 23 Feb 2025  [Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking](https://arxiv.org/abs/2502.13842)
 - 14 Feb 2025  [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 - 20 Jan 2025  [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5/blob/main/Kimi_k1.5.pdf)
 - 20 Jan 2025  [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
