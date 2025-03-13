@@ -244,6 +244,8 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 
 ## Blog Posts / Presentations
 
+- 09 Mar 2025  Vintage Data [Actual LLM agents are coming. They will be trained](https://vintagedata.org/blog/posts/designing-llm-agents)
+- ?? Feb 2025  Vintage Data [The Model is the Product](https://vintagedata.org/blog/posts/model-is-the-product)
 - 06 Feb 2025  Letta [Stateful Agents: The Missing Link in LLM Intelligence](https://www.letta.com/blog/stateful-agents)
 - 05 Feb 2025  Sebastian Raschka [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
 - 06 Feb 2025  unsloth [Train your own R1 reasoning model with Unsloth (GRPO)](https://unsloth.ai/blog/r1-reasoning)
