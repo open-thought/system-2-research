@@ -404,6 +404,9 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
   - [continue.dev](https://www.continue.dev/)
   - [Amazon Q Developer](https://aws.amazon.com/de/q/developer/)
   - [Codey](https://sourcegraph.com/cody)by Sourcegraph
+  - [Claude Code](https://github.com/anthropics/claude-code)
+- Terminal
+  - [warp](https://www.warp.dev/)
 - AWS [Automated Reasoning checks](https://aws.amazon.com/en/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
 
 
@@ -421,6 +424,8 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
 - [ZebraLogic](https://huggingface.co/blog/yuchenlin/zebra-logic), [Leaderboard](https://huggingface.co/spaces/allenai/ZebraLogic)
 - [Omni-MATH](https://omni-math.github.io/), gh: [KbsdJames/Omni-MATH](https://github.com/KbsdJames/Omni-MATH)
 - [BatsResearch/planetarium](https://github.com/BatsResearch/planetarium) - Dataset and benchmark for assessing LLMs in translating natural language descriptions of planning problems into PDDL
+- [BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games](https://arxiv.org/abs/2411.13543)
+
 
 ### Code
 - [SWE-bench](https://www.swebench.com/index.html), [SWE-bench Lite](https://www.swebench.com/lite.html)
