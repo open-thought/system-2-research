@@ -35,6 +35,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ## Agent Papers
 
 ### LLM Based
+- 06 Feb 2025  [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/abs/2502.04180)
 - 06 Jan 2025  [Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches](https://arxiv.org/abs/2501.03151)
 - Nov 2024  [LLaVA-o1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/html/2411.10440v1)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
@@ -136,6 +137,7 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 ### RL
 - 18 Feb 2025  [Competitive Programming with Large Reasoning Models](https://arxiv.org/abs/2502.06807) (OpenAI)
 - 04 Feb 2025  Satori: [Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search](https://arxiv.org/abs/2502.02508)
+- 22 Jan 2025  [Temporal Difference Learning: Why It Can Be Fast and How It Will Be Faster](https://openreview.net/forum?id=j3bKnEidtT)
 - 04 Jan 2025  REINFORCE++: [A Simple and Efficient Approach for Aligning Large Language Models](https://arxiv.org/abs/2501.03262)
 - 20 Dec 2024  OREO: [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 - 11 Oct 2024  DQO: [Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization](https://arxiv.org/abs/2410.09302)
@@ -225,7 +227,8 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 - Iteration of Thought (IoT), [Paper](https://arxiv.org/abs/2409.12618)
 - Logic-of-Thought (LoT) [Paper](https://arxiv.org/abs/2409.17539)
 - Forest-of-Thought (FoT) [Paper](https://arxiv.org/abs/2412.09078)
-- Chain of Draft (CoD): [Paper](https://arxiv.org/abs/2502.18600)
+- 04 Feb 2025  Chain-of-Associated-Thoughts (CoAT): [Paper](https://arxiv.org/abs/2502.02390)
+- 25 Feb 2025  Chain of Draft (CoD): [Paper](https://arxiv.org/abs/2502.18600)
 
 
 ### Negative results
@@ -240,6 +243,7 @@ with Repeated Sampling](https://arxiv.org/abs/2407.21787), [code](https://github
 
 ## Blog Posts / Presentations
 
+- 06 Feb 2025  Letta [Stateful Agents: The Missing Link in LLM Intelligence](https://www.letta.com/blog/stateful-agents)
 - 05 Feb 2025  Sebastian Raschka [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
 - 06 Feb 2025  unsloth [Train your own R1 reasoning model with Unsloth (GRPO)](https://unsloth.ai/blog/r1-reasoning)
 - 02 Feb 2025  Huggingface [Open-R1: Update #1](https://huggingface.co/blog/open-r1/update-1)
@@ -323,7 +327,7 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 - [motleycrew](https://github.com/ShoggothAI/motleycrew), [docs](https://motleycrew.readthedocs.io/en/latest/)
 - [langflow](https://github.com/langflow-ai/langflow), [docs](https://docs.langflow.org/)
 - [show-me](https://github.com/marlaman/show-me): A Visual and Transparent Reasoning Agent
-- [ReasonerAgent-Web](https://github.com/maitrix-org/llm-reasoners/tree/main/examples/ReasonerAgent-Web)
+- [ReasonerAgent-Web](https://github.com/maitrix-org/llm-reasoners/tree/main/examples/ReasonerAgent-Web), [Websiet](http://reasoner-agent.maitrix.org/)
 
 
 ## Algorithms
