@@ -30,7 +30,6 @@ You know a great resource we should add? Please see [How to contribute](#how-to-
 - [KIX](https://arxiv.org/abs/2402.05346) (KIX: A Metacognitive Generalization Framework) by A. Kumar and Paul Schrater
 - [ACE](https://arxiv.org/abs/2310.06775) (Autonomous Cognitive Entity) by David Shapiro et al., gh: [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework)
 - [Iterative Updating of Working Memory](https://arxiv.org/abs/2203.17255) by Jared Reser, [website](https://aithought.com/), [Video](https://youtu.be/R2H2Pl0I6EA?si=DlO0j-WxhG5TaJeN)
-- [PlanExe](https://github.com/neoneye/PlanExe) by Simon Strandgaard
 
 ## Agent Papers
 
@@ -330,8 +329,8 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 - [motleycrew](https://github.com/ShoggothAI/motleycrew), [docs](https://motleycrew.readthedocs.io/en/latest/)
 - [langflow](https://github.com/langflow-ai/langflow), [docs](https://docs.langflow.org/)
 - [show-me](https://github.com/marlaman/show-me): A Visual and Transparent Reasoning Agent
-- [ReasonerAgent-Web](https://github.com/maitrix-org/llm-reasoners/tree/main/examples/ReasonerAgent-Web), [Websiet](http://reasoner-agent.maitrix.org/)
-
+- [ReasonerAgent-Web](https://github.com/maitrix-org/llm-reasoners/tree/main/examples/ReasonerAgent-Web), [Website](http://reasoner-agent.maitrix.org/)
+- [PlanExe](https://github.com/neoneye/PlanExe), [examples](https://neoneye.github.io/PlanExe-web/use-cases/)
 
 ## Algorithms
 
