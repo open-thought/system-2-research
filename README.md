@@ -332,8 +332,8 @@ Initially attempted back in 2014 with general-purpose but unstable Neural Turing
 - [motleycrew](https://github.com/ShoggothAI/motleycrew), [docs](https://motleycrew.readthedocs.io/en/latest/)
 - [langflow](https://github.com/langflow-ai/langflow), [docs](https://docs.langflow.org/)
 - [show-me](https://github.com/marlaman/show-me): A Visual and Transparent Reasoning Agent
-- [ReasonerAgent-Web](https://github.com/maitrix-org/llm-reasoners/tree/main/examples/ReasonerAgent-Web), [Websiet](http://reasoner-agent.maitrix.org/)
-
+- [ReasonerAgent-Web](https://github.com/maitrix-org/llm-reasoners/tree/main/examples/ReasonerAgent-Web), [Website](http://reasoner-agent.maitrix.org/)
+- [PlanExe](https://github.com/neoneye/PlanExe), [examples](https://neoneye.github.io/PlanExe-web/use-cases/)
 
 ## Algorithms
 
