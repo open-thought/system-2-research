@@ -424,6 +424,7 @@ Dense Associative Memory is mainly represented by Modern Hopfield Networks (MHN)
   - [Amazon Q Developer](https://aws.amazon.com/de/q/developer/)
   - [Codey](https://sourcegraph.com/cody)by Sourcegraph
   - [Claude Code](https://github.com/anthropics/claude-code)
+  - [Fynix](https://www.fynix.ai/)
 - Terminal
   - [warp](https://www.warp.dev/)
 - General AI agent
